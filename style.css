@@ -1,0 +1,15 @@
+body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background-color: white; }
+#fondo-infinito {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    background-color: #f0f0f0;
+    background-size: cover;
+    opacity: 0.55; /* Opacidad aumentada para dar más textura al papel */
+}
+#defaultCanvas0 { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    pointer-events: auto; /* Permite que el canvas capture clicks */
+}

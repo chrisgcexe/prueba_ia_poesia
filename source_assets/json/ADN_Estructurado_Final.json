@@ -1,0 +1,6808 @@
+{
+    "meme_1.jpg": {
+        "archivo": "meme_1.jpg",
+        "adn": "422e9be2b7ff622faa6b74262d0642cc",
+        "codons": [
+            "CGG",
+            "TCT",
+            "CGG",
+            "TAC",
+            "ATC",
+            "CCA",
+            "ATG",
+            "ATG",
+            "CTC",
+            "CTA"
+        ],
+        "residual": "TC",
+        "sequence": "CGGTCTCGGTACATCCCAATGATGCTCCTATC",
+        "genes": [
+            [
+                "CGG",
+                "TCT",
+                "CGG"
+            ],
+            [
+                "TAC",
+                "ATC",
+                "CCA"
+            ],
+            [
+                "ATG",
+                "ATG",
+                "CTC"
+            ],
+            [
+                "CTA",
+                "TC"
+            ]
+        ],
+        "texto": "cuando no kieren soltar el chisme MANOBRA DE HEIMLICH",
+        "curado": true
+    },
+    "meme_2.jpg": {
+        "archivo": "meme_2.jpg",
+        "adn": "c2c514390747a8cfae322613123c5d15",
+        "codons": [
+            "AAG",
+            "TCC",
+            "CAG",
+            "TCA",
+            "CCG",
+            "CCC",
+            "GCA",
+            "GAT",
+            "ATC",
+            "TGC"
+        ],
+        "residual": "GG",
+        "sequence": "AAGTCCCAGTCACCGCCCGCAGATATCTGCGG",
+        "genes": [
+            [
+                "AAG",
+                "TCC",
+                "CAG"
+            ],
+            [
+                "TCA",
+                "CCG",
+                "CCC"
+            ],
+            [
+                "GCA",
+                "GAT",
+                "ATC"
+            ],
+            [
+                "TGC",
+                "GG"
+            ]
+        ],
+        "texto": "Quedé ácido desoxirribonucleico",
+        "curado": true
+    },
+    "meme_3.jpg": {
+        "archivo": "meme_3.jpg",
+        "adn": "24b6251a38a05c86659814970a992f52",
+        "codons": [
+            "AAA",
+            "AGA",
+            "TCT",
+            "CTT",
+            "GCT",
+            "ATG",
+            "TCT",
+            "CCG",
+            "ATT",
+            "CCG"
+        ],
+        "residual": "CT",
+        "sequence": "AAAAGATCTCTTGCTATGTCTCCGATTCCGCT",
+        "genes": [
+            [
+                "AAA",
+                "AGA",
+                "TCT"
+            ],
+            [
+                "CTT",
+                "GCT",
+                "ATG"
+            ],
+            [
+                "TCT",
+                "CCG",
+                "ATT"
+            ],
+            [
+                "CCG",
+                "CT"
+            ]
+        ],
+        "texto": "por motivos personales comenzaré a cruzar la calle sin mirar a los lados",
+        "curado": true
+    },
+    "meme_4.jpg": {
+        "archivo": "meme_4.jpg",
+        "adn": "230902f99939166fa0379d0ac8209093",
+        "codons": [
+            "CTA",
+            "GGT",
+            "GTA",
+            "GGT",
+            "TGA",
+            "CCC",
+            "TCA",
+            "TCA",
+            "TTG",
+            "ACC"
+        ],
+        "residual": "TA",
+        "sequence": "CTAGGTGTAGGTTGACCCTCATCATTGACCTA",
+        "genes": [
+            [
+                "CTA",
+                "GGT",
+                "GTA"
+            ],
+            [
+                "GGT",
+                "TGA",
+                "CCC"
+            ],
+            [
+                "TCA",
+                "TCA",
+                "TTG"
+            ],
+            [
+                "ACC",
+                "TA"
+            ]
+        ],
+        "texto": "pensando cosas de mujer romántica latina",
+        "curado": true
+    },
+    "meme_5.jpg": {
+        "archivo": "meme_5.jpg",
+        "adn": "f84b1c7c13f9a5faf7c6fcf296bc15a0",
+        "codons": [
+            "AAA",
+            "TGT",
+            "AGC",
+            "TCG",
+            "AAT",
+            "ATT",
+            "CAT",
+            "CAA",
+            "TTT",
+            "CTT"
+        ],
+        "residual": "TC",
+        "sequence": "AAATGTAGCTCGAATATTCATCAATTTCTTTC",
+        "genes": [
+            [
+                "AAA",
+                "TGT",
+                "AGC"
+            ],
+            [
+                "TCG",
+                "AAT",
+                "ATT"
+            ],
+            [
+                "CAT",
+                "CAA",
+                "TTT"
+            ],
+            [
+                "CTT",
+                "TC"
+            ]
+        ],
+        "texto": " bye (con intencien de que me ruegues)",
+        "curado": true
+    },
+    "meme_6.jpg": {
+        "archivo": "meme_6.jpg",
+        "adn": "86b470789f41924200f8bc6ffa438248",
+        "codons": [
+            "GCG",
+            "TAT",
+            "ACT",
+            "ATG",
+            "CCG",
+            "GGA",
+            "GCA",
+            "ACT",
+            "ATT",
+            "CTA"
+        ],
+        "residual": "GG",
+        "sequence": "GCGTATACTATGCCGGGAGCAACTATTCTAGG",
+        "genes": [
+            [
+                "GCG",
+                "TAT",
+                "ACT"
+            ],
+            [
+                "ATG",
+                "CCG",
+                "GGA"
+            ],
+            [
+                "GCA",
+                "ACT",
+                "ATT"
+            ],
+            [
+                "CTA",
+                "GG"
+            ]
+        ],
+        "texto": "Qué ganas de ser una planta; pura fotosíntesis y nada de chambear",
+        "curado": true
+    },
+    "meme_7.jpg": {
+        "archivo": "meme_7.jpg",
+        "adn": "25689da24d268023a647302f38480ef8",
+        "codons": [
+            "AGA",
+            "CGA",
+            "CCG",
+            "AGC",
+            "TAG",
+            "GTC",
+            "ATT",
+            "GTG",
+            "TAC",
+            "CGA"
+        ],
+        "residual": "AT",
+        "sequence": "AGACGACCGAGCTAGGTCATTGTGTACCGAAT",
+        "genes": [
+            [
+                "AGA",
+                "CGA",
+                "CCG"
+            ],
+            [
+                "AGC",
+                "TAG",
+                "GTC"
+            ],
+            [
+                "ATT",
+                "GTG",
+                "TAC"
+            ],
+            [
+                "CGA",
+                "AT"
+            ]
+        ],
+        "texto": "soy cansancion crónico en un humano icónico",
+        "curado": true
+    },
+    "meme_8.jpg": {
+        "archivo": "meme_8.jpg",
+        "adn": "0aaac1ebe5377f0616588790983da4ca",
+        "codons": [
+            "AGT",
+            "GTT",
+            "CTT",
+            "TCT",
+            "ATG",
+            "GTC",
+            "GTT",
+            "AGT",
+            "TAG",
+            "GTT"
+        ],
+        "residual": "CG",
+        "sequence": "AGTGTTCTTTCTATGGTCGTTAGTTAGGTTCG",
+        "genes": [
+            [
+                "AGT",
+                "GTT",
+                "CTT"
+            ],
+            [
+                "TCT",
+                "ATG",
+                "GTC"
+            ],
+            [
+                "GTT",
+                "AGT",
+                "TAG"
+            ],
+            [
+                "GTT",
+                "CG"
+            ]
+        ],
+        "texto": "hagamos una dinamica formen equipos de 4 y vayanse a chingar su madre",
+        "curado": true
+    },
+    "meme_9.jpg": {
+        "archivo": "meme_9.jpg",
+        "adn": "edd4ff6271397cd3852d6706a31b650b",
+        "codons": [
+            "AAC",
+            "GTG",
+            "ACC",
+            "GCA",
+            "CGC",
+            "TGG",
+            "CAG",
+            "CTC",
+            "TAT",
+            "TTT"
+        ],
+        "residual": "CG",
+        "sequence": "AACGTGACCGCACGCTGGCAGCTCTATTTTCG",
+        "genes": [
+            [
+                "AAC",
+                "GTG",
+                "ACC"
+            ],
+            [
+                "GCA",
+                "CGC",
+                "TGG"
+            ],
+            [
+                "CAG",
+                "CTC",
+                "TAT"
+            ],
+            [
+                "TTT",
+                "CG"
+            ]
+        ],
+        "texto": "mi contribución a la sociedad es ser la bonita",
+        "curado": true
+    },
+    "meme_10.jpg": {
+        "archivo": "meme_10.jpg",
+        "adn": "e28c2c7b7c9cd96141c44914a2c1a74b",
+        "codons": [
+            "CTC",
+            "AAC",
+            "CAA",
+            "GGC",
+            "AGA",
+            "TCC",
+            "AAG",
+            "GCA",
+            "ACT",
+            "AGA"
+        ],
+        "residual": "TC",
+        "sequence": "CTCAACCAAGGCAGATCCAAGGCAACTAGATC",
+        "genes": [
+            [
+                "CTC",
+                "AAC",
+                "CAA"
+            ],
+            [
+                "GGC",
+                "AGA",
+                "TCC"
+            ],
+            [
+                "AAG",
+                "GCA",
+                "ACT"
+            ],
+            [
+                "AGA",
+                "TC"
+            ]
+        ],
+        "texto": "no soy ni activa si pasiva soy latina",
+        "curado": true
+    },
+    "meme_11.jpg": {
+        "archivo": "meme_11.jpg",
+        "adn": "e12e322bde1ce5ebbbe55d47c2a2abd1",
+        "codons": [
+            "AGC",
+            "CCA",
+            "TAC",
+            "AAA",
+            "GAC",
+            "TAC",
+            "ACT",
+            "TAG",
+            "GGG",
+            "GTA"
+        ],
+        "residual": "GC",
+        "sequence": "AGCCCATACAAAGACTACACTTAGGGGGTAGC",
+        "genes": [
+            [
+                "AGC",
+                "CCA",
+                "TAC"
+            ],
+            [
+                "AAA",
+                "GAC",
+                "TAC"
+            ],
+            [
+                "ACT",
+                "TAG",
+                "GGG"
+            ],
+            [
+                "GTA",
+                "GC"
+            ]
+        ],
+        "texto": "sufrí pero me hice mas chistosa",
+        "curado": true
+    },
+    "meme_12.jpg": {
+        "archivo": "meme_12.jpg",
+        "adn": "2a60cf03cf0255e5e24627b06b9bc362",
+        "codons": [
+            "CCT",
+            "AGA",
+            "TCG",
+            "CAA",
+            "TGT",
+            "AGG",
+            "TCC",
+            "ACT",
+            "CTG",
+            "ACG"
+        ],
+        "residual": "TG",
+        "sequence": "CCTAGATCGCAATGTAGGTCCACTCTGACGTG",
+        "genes": [
+            [
+                "CCT",
+                "AGA",
+                "TCG"
+            ],
+            [
+                "CAA",
+                "TGT",
+                "AGG"
+            ],
+            [
+                "TCC",
+                "ACT",
+                "CTG"
+            ],
+            [
+                "ACG",
+                "TG"
+            ]
+        ],
+        "texto": "para días caóticos outfits icónicos",
+        "curado": true
+    },
+    "meme_13.jpg": {
+        "archivo": "meme_13.jpg",
+        "adn": "f8a7472024d3a8b9bf18cbd234a91786",
+        "codons": [
+            "TTG",
+            "GAA",
+            "ACC",
+            "AGC",
+            "GCT",
+            "ACG",
+            "AAA",
+            "CGG",
+            "CCT",
+            "CCG"
+        ],
+        "residual": "CC",
+        "sequence": "TTGGAAACCAGCGCTACGAAACGGCCTCCGCC",
+        "genes": [
+            [
+                "TTG",
+                "GAA",
+                "ACC"
+            ],
+            [
+                "AGC",
+                "GCT",
+                "ACG"
+            ],
+            [
+                "AAA",
+                "CGG",
+                "CCT"
+            ],
+            [
+                "CCG",
+                "CC"
+            ]
+        ],
+        "texto": "EN MI CASA NO SABEN KE SOY Twittera",
+        "curado": true
+    },
+    "meme_14.jpg": {
+        "archivo": "meme_14.jpg",
+        "adn": "aa8497aae9fd881012f82ac5947b915f",
+        "codons": [
+            "GCG",
+            "TCT",
+            "GGA",
+            "ATA",
+            "GCA",
+            "TCT",
+            "GTA",
+            "CTT",
+            "TCG",
+            "GAA"
+        ],
+        "residual": "GC",
+        "sequence": "GCGTCTGGAATAGCATCTGTACTTTCGGAAGC",
+        "genes": [
+            [
+                "GCG",
+                "TCT",
+                "GGA"
+            ],
+            [
+                "ATA",
+                "GCA",
+                "TCT"
+            ],
+            [
+                "GTA",
+                "CTT",
+                "TCG"
+            ],
+            [
+                "GAA",
+                "GC"
+            ]
+        ],
+        "texto": "Potente el cringe",
+        "curado": true
+    },
+    "meme_15.jpg": {
+        "archivo": "meme_15.jpg",
+        "adn": "9579f6dd1cee5492c61d0e744315b401",
+        "codons": [
+            "GGA",
+            "GAG",
+            "ATG",
+            "GTA",
+            "TCT",
+            "CGA",
+            "CGT",
+            "GAA",
+            "CTC",
+            "CTA"
+        ],
+        "residual": "GG",
+        "sequence": "GGAGAGATGGTATCTCGACGTGAACTCCTAGG",
+        "genes": [
+            [
+                "GGA",
+                "GAG",
+                "ATG"
+            ],
+            [
+                "GTA",
+                "TCT",
+                "CGA"
+            ],
+            [
+                "CGT",
+                "GAA",
+                "CTC"
+            ],
+            [
+                "CTA",
+                "GG"
+            ]
+        ],
+        "texto": "animo encontraras alguien que te quiera tal y como eres, yo no, pero alguien habrá",
+        "curado": true
+    },
+    "meme_16.jpg": {
+        "archivo": "meme_16.jpg",
+        "adn": "3a4a1da628acc936f39db14922ef95dd",
+        "codons": [
+            "TAG",
+            "AAG",
+            "AGT",
+            "CCC",
+            "AGT",
+            "GAC",
+            "TTT",
+            "CAA",
+            "AAT",
+            "GAC"
+        ],
+        "residual": "CG",
+        "sequence": "TAGAAGAGTCCCAGTGACTTTCAAAATGACCG",
+        "genes": [
+            [
+                "TAG",
+                "AAG",
+                "AGT"
+            ],
+            [
+                "CCC",
+                "AGT",
+                "GAC"
+            ],
+            [
+                "TTT",
+                "CAA",
+                "AAT"
+            ],
+            [
+                "GAC",
+                "CG"
+            ]
+        ],
+        "texto": "no sé coquetear pero si quieres podemos discutir",
+        "curado": true
+    },
+    "meme_17.jpg": {
+        "archivo": "meme_17.jpg",
+        "adn": "f09aa81482f842a2796c5447baad668a",
+        "codons": [
+            "TCC",
+            "CTT",
+            "TCC",
+            "AGC",
+            "AAG",
+            "CAA",
+            "TGA",
+            "TGA",
+            "AAG",
+            "TTG"
+        ],
+        "residual": "CC",
+        "sequence": "TCCCTTTCCAGCAAGCAATGATGAAAGTTGCC",
+        "genes": [
+            [
+                "TCC",
+                "CTT",
+                "TCC"
+            ],
+            [
+                "AGC",
+                "AAG",
+                "CAA"
+            ],
+            [
+                "TGA",
+                "TGA",
+                "AAG"
+            ],
+            [
+                "TTG",
+                "CC"
+            ]
+        ],
+        "texto": "Se escucha borroso",
+        "curado": true
+    },
+    "meme_18.jpg": {
+        "archivo": "meme_18.jpg",
+        "adn": "580b6da8b4f565624d8fb896f441eafe",
+        "codons": [
+            "CGG",
+            "GGA",
+            "ATT",
+            "TCG",
+            "GAT",
+            "GCT",
+            "ATG",
+            "GGC",
+            "TTT",
+            "CTT"
+        ],
+        "residual": "AT",
+        "sequence": "CGGGGAATTTCGGATGCTATGGGCTTTCTTAT",
+        "genes": [
+            [
+                "CGG",
+                "GGA",
+                "ATT"
+            ],
+            [
+                "TCG",
+                "GAT",
+                "GCT"
+            ],
+            [
+                "ATG",
+                "GGC",
+                "TTT"
+            ],
+            [
+                "CTT",
+                "AT"
+            ]
+        ],
+        "texto": "To be, or not to be un escándalo",
+        "curado": true
+    },
+    "meme_19.jpg": {
+        "archivo": "meme_19.jpg",
+        "adn": "f4e59edae0407841bfc93917acc926b3",
+        "codons": [
+            "GCC",
+            "TCC",
+            "GTT",
+            "CAG",
+            "AAG",
+            "AGG",
+            "CCA",
+            "TCA",
+            "TGC",
+            "CCA"
+        ],
+        "residual": "TG",
+        "sequence": "GCCTCCGTTCAGAAGAGGCCATCATGCCCATG",
+        "genes": [
+            [
+                "GCC",
+                "TCC",
+                "GTT"
+            ],
+            [
+                "CAG",
+                "AAG",
+                "AGG"
+            ],
+            [
+                "CCA",
+                "TCA",
+                "TGC"
+            ],
+            [
+                "CCA",
+                "TG"
+            ]
+        ],
+        "texto": "bueno papi desidase",
+        "curado": true
+    },
+    "meme_20.jpg": {
+        "archivo": "meme_20.jpg",
+        "adn": "d1bc48c76054d532357e399260fa6d63",
+        "codons": [
+            "TAA",
+            "GCT",
+            "CCT",
+            "GTC",
+            "TTC",
+            "CTG",
+            "CAC",
+            "AGT",
+            "TTT",
+            "TCA"
+        ],
+        "residual": "TA",
+        "sequence": "TAAGCTCCTGTCTTCCTGCACAGTTTTTCATA",
+        "genes": [
+            [
+                "TAA",
+                "GCT",
+                "CCT"
+            ],
+            [
+                "GTC",
+                "TTC",
+                "CTG"
+            ],
+            [
+                "CAC",
+                "AGT",
+                "TTT"
+            ],
+            [
+                "TCA",
+                "TA"
+            ]
+        ],
+        "texto": "odiada, funada, bloqueada, pero jamás una pick me",
+        "curado": true
+    },
+    "meme_21.jpg": {
+        "archivo": "meme_21.jpg",
+        "adn": "5036a0e6bf15740a210dfcb39307fb75",
+        "codons": [
+            "ATC",
+            "ACA",
+            "AGT",
+            "GAA",
+            "AAC",
+            "CCA",
+            "GTA",
+            "CGT",
+            "GGC",
+            "AAG"
+        ],
+        "residual": "GA",
+        "sequence": "ATCACAAGTGAAAACCCAGTACGTGGCAAGGA",
+        "genes": [
+            [
+                "ATC",
+                "ACA",
+                "AGT"
+            ],
+            [
+                "GAA",
+                "AAC",
+                "CCA"
+            ],
+            [
+                "GTA",
+                "CGT",
+                "GGC"
+            ],
+            [
+                "AAG",
+                "GA"
+            ]
+        ],
+        "texto": "Joder; esto sí es literatura",
+        "curado": true
+    },
+    "meme_22.jpg": {
+        "archivo": "meme_22.jpg",
+        "adn": "6f218f08ca9fa8f1720c6e6deb4e261f",
+        "codons": [
+            "ATG",
+            "TGA",
+            "AAC",
+            "ACG",
+            "GAC",
+            "GGA",
+            "CGC",
+            "ATT",
+            "ACG",
+            "CAA"
+        ],
+        "residual": "TG",
+        "sequence": "ATGTGAAACACGGACGGACGCATTACGCAATG",
+        "genes": [
+            [
+                "ATG",
+                "TGA",
+                "AAC"
+            ],
+            [
+                "ACG",
+                "GAC",
+                "GGA"
+            ],
+            [
+                "CGC",
+                "ATT",
+                "ACG"
+            ],
+            [
+                "CAA",
+                "TG"
+            ]
+        ],
+        "texto": "cuando recién llegas al trabajo y ya te anda brincando el ojo de tanto estrés",
+        "curado": true
+    },
+    "meme_23.jpg": {
+        "archivo": "meme_23.jpg",
+        "adn": "f204a585b58c89dd15f20a8d90825002",
+        "codons": [
+            "GGG",
+            "ACG",
+            "TGA",
+            "AAG",
+            "ACT",
+            "GCG",
+            "GCC",
+            "CAT",
+            "GAT",
+            "TAG"
+        ],
+        "residual": "CT",
+        "sequence": "GGGACGTGAAAGACTGCGGCCCATGATTAGCT",
+        "genes": [
+            [
+                "GGG",
+                "ACG",
+                "TGA"
+            ],
+            [
+                "AAG",
+                "ACT",
+                "GCG"
+            ],
+            [
+                "GCC",
+                "CAT",
+                "GAT"
+            ],
+            [
+                "TAG",
+                "CT"
+            ]
+        ],
+        "texto": "pensando mil cosas en la madrugada, menos en dormir",
+        "curado": true
+    },
+    "meme_24.jpg": {
+        "archivo": "meme_24.jpg",
+        "adn": "8462eef6775bdffc6f5b0ce8fb8b2c59",
+        "codons": [
+            "TGT",
+            "CAC",
+            "GCC",
+            "CCA",
+            "GTA",
+            "AAG",
+            "TAA",
+            "GGG",
+            "GTT",
+            "CAT"
+        ],
+        "residual": "TC",
+        "sequence": "TGTCACGCCCCAGTAAAGTAAGGGGTTCATTC",
+        "genes": [
+            [
+                "TGT",
+                "CAC",
+                "GCC"
+            ],
+            [
+                "CCA",
+                "GTA",
+                "AAG"
+            ],
+            [
+                "TAA",
+                "GGG",
+                "GTT"
+            ],
+            [
+                "CAT",
+                "TC"
+            ]
+        ],
+        "texto": "curtir tu mambo y sin berretin, tranqui, piola",
+        "curado": true
+    },
+    "meme_25.jpg": {
+        "archivo": "meme_25.jpg",
+        "adn": "d3c42ffda700536c403b767dfc40b338",
+        "codons": [
+            "TAG",
+            "AAA",
+            "CTG",
+            "CCC",
+            "ATT",
+            "CAG",
+            "ACA",
+            "GAT",
+            "CCT",
+            "CCA"
+        ],
+        "residual": "CA",
+        "sequence": "TAGAAACTGCCCATTCAGACAGATCCTCCACA",
+        "genes": [
+            [
+                "TAG",
+                "AAA",
+                "CTG"
+            ],
+            [
+                "CCC",
+                "ATT",
+                "CAG"
+            ],
+            [
+                "ACA",
+                "GAT",
+                "CCT"
+            ],
+            [
+                "CCA",
+                "CA"
+            ]
+        ],
+        "texto": "mamá zamba no gira eso",
+        "curado": true
+    },
+    "meme_26.jpg": {
+        "archivo": "meme_26.jpg",
+        "adn": "ff3250377525118f8b97253733a61367",
+        "codons": [
+            "CGC",
+            "ATC",
+            "TCC",
+            "AGT",
+            "ATG",
+            "TCC",
+            "TGA",
+            "TGC",
+            "GCG",
+            "TCC"
+        ],
+        "residual": "CT",
+        "sequence": "CGCATCTCCAGTATGTCCTGATGCGCGTCCCT",
+        "genes": [
+            [
+                "CGC",
+                "ATC",
+                "TCC"
+            ],
+            [
+                "AGT",
+                "ATG",
+                "TCC"
+            ],
+            [
+                "TGA",
+                "TGC",
+                "GCG"
+            ],
+            [
+                "TCC",
+                "CT"
+            ]
+        ],
+        "texto": "hacela caga yanina",
+        "curado": true
+    },
+    "meme_27.jpg": {
+        "archivo": "meme_27.jpg",
+        "adn": "82c1555c30633fe218cdb2fd791867b8",
+        "codons": [
+            "TTG",
+            "GCC",
+            "CTC",
+            "TCA",
+            "CTC",
+            "TTC",
+            "TTT",
+            "ATG",
+            "ACA",
+            "CAC"
+        ],
+        "residual": "AA",
+        "sequence": "TTGGCCCTCTCACTCTTCTTTATGACACACAA",
+        "genes": [
+            [
+                "TTG",
+                "GCC",
+                "CTC"
+            ],
+            [
+                "TCA",
+                "CTC",
+                "TTC"
+            ],
+            [
+                "TTT",
+                "ATG",
+                "ACA"
+            ],
+            [
+                "CAC",
+                "AA"
+            ]
+        ],
+        "texto": "no te deje ganar Claudia",
+        "curado": true
+    },
+    "meme_28.jpg": {
+        "archivo": "meme_28.jpg",
+        "adn": "560e5120661137b7994d0ba42e9c2d44",
+        "codons": [
+            "GGA",
+            "CCT",
+            "GTA",
+            "GAC",
+            "TCA",
+            "GGA",
+            "CAC",
+            "GCC",
+            "TGT",
+            "TCC"
+        ],
+        "residual": "CA",
+        "sequence": "GGACCTGTAGACTCAGGACACGCCTGTTCCCA",
+        "genes": [
+            [
+                "GGA",
+                "CCT",
+                "GTA"
+            ],
+            [
+                "GAC",
+                "TCA",
+                "GGA"
+            ],
+            [
+                "CAC",
+                "GCC",
+                "TGT"
+            ],
+            [
+                "TCC",
+                "CA"
+            ]
+        ],
+        "texto": "listo que capo que soy",
+        "curado": true
+    },
+    "meme_29.jpg": {
+        "archivo": "meme_29.jpg",
+        "adn": "83d3cc2d4d071351b2bf1e38e6937dbd",
+        "codons": [
+            "TCA",
+            "CCT",
+            "TTC",
+            "ACA",
+            "ACA",
+            "TCT",
+            "CTG",
+            "AGG",
+            "CTG",
+            "AAC"
+        ],
+        "residual": "TT",
+        "sequence": "TCACCTTTCACAACATCTCTGAGGCTGAACTT",
+        "genes": [
+            [
+                "TCA",
+                "CCT",
+                "TTC"
+            ],
+            [
+                "ACA",
+                "ACA",
+                "TCT"
+            ],
+            [
+                "CTG",
+                "AGG",
+                "CTG"
+            ],
+            [
+                "AAC",
+                "TT"
+            ]
+        ],
+        "texto": "Tuki",
+        "curado": true
+    },
+    "meme_30.jpg": {
+        "archivo": "meme_30.jpg",
+        "adn": "4b8482edfcde324024cc457a54140352",
+        "codons": [
+            "ATG",
+            "CAG",
+            "AGC",
+            "GCT",
+            "TGA",
+            "CCG",
+            "CCT",
+            "TAC",
+            "CCC",
+            "CTA"
+        ],
+        "residual": "CA",
+        "sequence": "ATGCAGAGCGCTTGACCGCCTTACCCCCTACA",
+        "genes": [
+            [
+                "ATG",
+                "CAG",
+                "AGC"
+            ],
+            [
+                "GCT",
+                "TGA",
+                "CCG"
+            ],
+            [
+                "CCT",
+                "TAC",
+                "CCC"
+            ],
+            [
+                "CTA",
+                "CA"
+            ]
+        ],
+        "texto": "migajas? yo merezco el pan completo",
+        "curado": true
+    },
+    "meme_31.jpg": {
+        "archivo": "meme_31.jpg",
+        "adn": "4c60fb423cb2e339db59927e7a0993c8",
+        "codons": [
+            "ACG",
+            "CGC",
+            "GAC",
+            "GGC",
+            "CCC",
+            "CGC",
+            "CAC",
+            "TGC",
+            "GGA",
+            "TCC"
+        ],
+        "residual": "TA",
+        "sequence": "ACGCGCGACGGCCCCCGCCACTGCGGATCCTA",
+        "genes": [
+            [
+                "ACG",
+                "CGC",
+                "GAC"
+            ],
+            [
+                "GGC",
+                "CCC",
+                "CGC"
+            ],
+            [
+                "CAC",
+                "TGC",
+                "GGA"
+            ],
+            [
+                "TCC",
+                "TA"
+            ]
+        ],
+        "texto": "estres hada",
+        "curado": true
+    },
+    "meme_32.jpg": {
+        "archivo": "meme_32.jpg",
+        "adn": "8d03159188dc407ee9a4818017252b32",
+        "codons": [
+            "CCA",
+            "CGC",
+            "CGT",
+            "CAC",
+            "GTT",
+            "GGA",
+            "TCG",
+            "TGC",
+            "ACC",
+            "TAG"
+        ],
+        "residual": "GC",
+        "sequence": "CCACGCCGTCACGTTGGATCGTGCACCTAGGC",
+        "genes": [
+            [
+                "CCA",
+                "CGC",
+                "CGT"
+            ],
+            [
+                "CAC",
+                "GTT",
+                "GGA"
+            ],
+            [
+                "TCG",
+                "TGC",
+                "ACC"
+            ],
+            [
+                "TAG",
+                "GC"
+            ]
+        ],
+        "texto": "cans hada",
+        "curado": true
+    },
+    "meme_33.jpg": {
+        "archivo": "meme_33.jpg",
+        "adn": "fba494b706d29fa007cef1b560ac11fe",
+        "codons": [
+            "CGC",
+            "ATT",
+            "GGG",
+            "CCG",
+            "GGA",
+            "CCA",
+            "TAA",
+            "AGA",
+            "CGT",
+            "CGC"
+        ],
+        "residual": "CT",
+        "sequence": "CGCATTGGGCCGGGACCATAAAGACGTCGCCT",
+        "genes": [
+            [
+                "CGC",
+                "ATT",
+                "GGG"
+            ],
+            [
+                "CCG",
+                "GGA",
+                "CCA"
+            ],
+            [
+                "TAA",
+                "AGA",
+                "CGT"
+            ],
+            [
+                "CGC",
+                "CT"
+            ]
+        ],
+        "texto": "buen dia taaa friazo mal",
+        "curado": true
+    },
+    "meme_34.jpg": {
+        "archivo": "meme_34.jpg",
+        "adn": "ef4a5848f2eebd3648abb6b04f184ed1",
+        "codons": [
+            "TCT",
+            "AAG",
+            "ATG",
+            "CTT",
+            "CGC",
+            "CGG",
+            "TCC",
+            "CTA",
+            "CCT",
+            "TTC"
+        ],
+        "residual": "AA",
+        "sequence": "TCTAAGATGCTTCGCCGGTCCCTACCTTTCAA",
+        "genes": [
+            [
+                "TCT",
+                "AAG",
+                "ATG"
+            ],
+            [
+                "CTT",
+                "CGC",
+                "CGG"
+            ],
+            [
+                "TCC",
+                "CTA",
+                "CCT"
+            ],
+            [
+                "TTC",
+                "AA"
+            ]
+        ],
+        "texto": "mal ahi si claro no, q garron tal cual y si",
+        "curado": true
+    },
+    "meme_35.jpg": {
+        "archivo": "meme_35.jpg",
+        "adn": "ec913cdfad1e07352b3bd3a83f935ddb",
+        "codons": [
+            "GGA",
+            "TAT",
+            "ATC",
+            "AGT",
+            "TGG",
+            "GAG",
+            "TAT",
+            "GAG",
+            "GTA",
+            "CTT"
+        ],
+        "residual": "AC",
+        "sequence": "GGATATATCAGTTGGGAGTATGAGGTACTTAC",
+        "genes": [
+            [
+                "GGA",
+                "TAT",
+                "ATC"
+            ],
+            [
+                "AGT",
+                "TGG",
+                "GAG"
+            ],
+            [
+                "TAT",
+                "GAG",
+                "GTA"
+            ],
+            [
+                "CTT",
+                "AC"
+            ]
+        ],
+        "texto": "me crio la calle gil",
+        "curado": true
+    },
+    "meme_36.jpg": {
+        "archivo": "meme_36.jpg",
+        "adn": "a253e0269e635158ff8f2ebc77f9ea5a",
+        "codons": [
+            "TCA",
+            "AGG",
+            "CTA",
+            "CGA",
+            "CGG",
+            "AAG",
+            "TGG",
+            "GCG",
+            "TCA",
+            "GGA"
+        ],
+        "residual": "AG",
+        "sequence": "TCAAGGCTACGACGGAAGTGGGCGTCAGGAAG",
+        "genes": [
+            [
+                "TCA",
+                "AGG",
+                "CTA"
+            ],
+            [
+                "CGA",
+                "CGG",
+                "AAG"
+            ],
+            [
+                "TGG",
+                "GCG",
+                "TCA"
+            ],
+            [
+                "GGA",
+                "AG"
+            ]
+        ],
+        "texto": "toy joya",
+        "curado": true
+    },
+    "meme_37.jpg": {
+        "archivo": "meme_37.jpg",
+        "adn": "f509015c0ea2a6705913726c2c117ea0",
+        "codons": [
+            "CTT",
+            "GTA",
+            "AAA",
+            "CAT",
+            "GTC",
+            "AAT",
+            "TGG",
+            "AAT",
+            "CTA",
+            "TAC"
+        ],
+        "residual": "AA",
+        "sequence": "CTTGTAAAACATGTCAATTGGAATCTATACAA",
+        "genes": [
+            [
+                "CTT",
+                "GTA",
+                "AAA"
+            ],
+            [
+                "CAT",
+                "GTC",
+                "AAT"
+            ],
+            [
+                "TGG",
+                "AAT",
+                "CTA"
+            ],
+            [
+                "TAC",
+                "AA"
+            ]
+        ],
+        "texto": "y negriii? como quedo el talle",
+        "curado": true
+    },
+    "meme_38.jpg": {
+        "archivo": "meme_38.jpg",
+        "adn": "e95b247b0f47204f349705533f894d91",
+        "codons": [
+            "TGT",
+            "TAT",
+            "ACC",
+            "ATA",
+            "ACG",
+            "GCA",
+            "TTG",
+            "ATG",
+            "AGT",
+            "GAA"
+        ],
+        "residual": "TA",
+        "sequence": "TGTTATACCATAACGGCATTGATGAGTGAATA",
+        "genes": [
+            [
+                "TGT",
+                "TAT",
+                "ACC"
+            ],
+            [
+                "ATA",
+                "ACG",
+                "GCA"
+            ],
+            [
+                "TTG",
+                "ATG",
+                "AGT"
+            ],
+            [
+                "GAA",
+                "TA"
+            ]
+        ],
+        "texto": "oie :3",
+        "curado": true
+    },
+    "meme_39.jpg": {
+        "archivo": "meme_39.jpg",
+        "adn": "bff0ee7624c0d95c46a1a46fd3bf3093",
+        "codons": [
+            "ACT",
+            "TGT",
+            "GGT",
+            "AAA",
+            "TAG",
+            "TCA",
+            "CGT",
+            "AAT",
+            "CCT",
+            "TAA"
+        ],
+        "residual": "GG",
+        "sequence": "ACTTGTGGTAAATAGTCACGTAATCCTTAAGG",
+        "genes": [
+            [
+                "ACT",
+                "TGT",
+                "GGT"
+            ],
+            [
+                "AAA",
+                "TAG",
+                "TCA"
+            ],
+            [
+                "CGT",
+                "AAT",
+                "CCT"
+            ],
+            [
+                "TAA",
+                "GG"
+            ]
+        ],
+        "texto": "me da vewencha",
+        "curado": true
+    },
+    "meme_40.jpg": {
+        "archivo": "meme_40.jpg",
+        "adn": "a6980865815214d750ec182598540cf8",
+        "codons": [
+            "GTA",
+            "GCC",
+            "GCT",
+            "AGT",
+            "AGA",
+            "GTC",
+            "TCG",
+            "GTT",
+            "AAT",
+            "GGG"
+        ],
+        "residual": "TC",
+        "sequence": "GTAGCCGCTAGTAGAGTCTCGGTTAATGGGTC",
+        "genes": [
+            [
+                "GTA",
+                "GCC",
+                "GCT"
+            ],
+            [
+                "AGT",
+                "AGA",
+                "GTC"
+            ],
+            [
+                "TCG",
+                "GTT",
+                "AAT"
+            ],
+            [
+                "GGG",
+                "TC"
+            ]
+        ],
+        "texto": "no me grites que soy sensible y lloro",
+        "curado": true
+    },
+    "meme_41.jpg": {
+        "archivo": "meme_41.jpg",
+        "adn": "37a3e491e9367fc2d2fa3cee56b1f009",
+        "codons": [
+            "TAT",
+            "CGG",
+            "AGT",
+            "TCG",
+            "GCA",
+            "AAA",
+            "ATC",
+            "GCA",
+            "CGG",
+            "GTG"
+        ],
+        "residual": "AT",
+        "sequence": "TATCGGAGTTCGGCAAAAATCGCACGGGTGAT",
+        "genes": [
+            [
+                "TAT",
+                "CGG",
+                "AGT"
+            ],
+            [
+                "TCG",
+                "GCA",
+                "AAA"
+            ],
+            [
+                "ATC",
+                "GCA",
+                "CGG"
+            ],
+            [
+                "GTG",
+                "AT"
+            ]
+        ],
+        "texto": "me duele la tripita",
+        "curado": true
+    },
+    "meme_42.jpg": {
+        "archivo": "meme_42.jpg",
+        "adn": "aee560d7bb94fc47dd4b8fa201ec20f0",
+        "codons": [
+            "ACG",
+            "TTC",
+            "GGC",
+            "TCA",
+            "CAC",
+            "ACA",
+            "TCC",
+            "GCG",
+            "GTA",
+            "CAA"
+        ],
+        "residual": "AC",
+        "sequence": "ACGTTCGGCTCACACACATCCGCGGTACAAAC",
+        "genes": [
+            [
+                "ACG",
+                "TTC",
+                "GGC"
+            ],
+            [
+                "TCA",
+                "CAC",
+                "ACA"
+            ],
+            [
+                "TCC",
+                "GCG",
+                "GTA"
+            ],
+            [
+                "CAA",
+                "AC"
+            ]
+        ],
+        "texto": "muack de mi pa ti",
+        "curado": true
+    },
+    "meme_43.jpg": {
+        "archivo": "meme_43.jpg",
+        "adn": "46443fb10b67611f0812f058b4cd964f",
+        "codons": [
+            "CGT",
+            "ACT",
+            "AGG",
+            "ATG",
+            "TTC",
+            "GGA",
+            "CAC",
+            "GGC",
+            "ACT",
+            "CTC"
+        ],
+        "residual": "TT",
+        "sequence": "CGTACTAGGATGTTCGGACACGGCACTCTCTT",
+        "genes": [
+            [
+                "CGT",
+                "ACT",
+                "AGG"
+            ],
+            [
+                "ATG",
+                "TTC",
+                "GGA"
+            ],
+            [
+                "CAC",
+                "GGC",
+                "ACT"
+            ],
+            [
+                "CTC",
+                "TT"
+            ]
+        ],
+        "texto": "Yo viendo como ronca mi hermano y de repente habla solo:",
+        "curado": true
+    },
+    "meme_44.jpg": {
+        "archivo": "meme_44.jpg",
+        "adn": "708e9bb4723360e83e550bce8420b3bb",
+        "codons": [
+            "CCT",
+            "TGA",
+            "CAG",
+            "ACG",
+            "CCA",
+            "CCG",
+            "TTA",
+            "ATG",
+            "CGG",
+            "TAC"
+        ],
+        "residual": "AG",
+        "sequence": "CCTTGACAGACGCCACCGTTAATGCGGTACAG",
+        "genes": [
+            [
+                "CCT",
+                "TGA",
+                "CAG"
+            ],
+            [
+                "ACG",
+                "CCA",
+                "CCG"
+            ],
+            [
+                "TTA",
+                "ATG",
+                "CGG"
+            ],
+            [
+                "TAC",
+                "AG"
+            ]
+        ],
+        "texto": "me quieren ver trabajando pero no les voy a dar el gusto",
+        "curado": true
+    },
+    "meme_45.jpg": {
+        "archivo": "meme_45.jpg",
+        "adn": "045c7195fd97e90ac13020455cac917c",
+        "codons": [
+            "TCA",
+            "CCA",
+            "CTC",
+            "CGA",
+            "ATC",
+            "TCC",
+            "GTG",
+            "CGA",
+            "GTC",
+            "GTG"
+        ],
+        "residual": "CA",
+        "sequence": "TCACCACTCCGAATCTCCGTGCGAGTCGTGCA",
+        "genes": [
+            [
+                "TCA",
+                "CCA",
+                "CTC"
+            ],
+            [
+                "CGA",
+                "ATC",
+                "TCC"
+            ],
+            [
+                "GTG",
+                "CGA",
+                "GTC"
+            ],
+            [
+                "GTG",
+                "CA"
+            ]
+        ],
+        "texto": "el idiota grita El inteligente opina y el sabio pone",
+        "curado": true
+    },
+    "meme_46.jpg": {
+        "archivo": "meme_46.jpg",
+        "adn": "4bcd54a7144983e522ddae2ca4caea57",
+        "codons": [
+            "GCT",
+            "CGC",
+            "CGT",
+            "ATT",
+            "TGA",
+            "CCC",
+            "GAT",
+            "GCT",
+            "GAG",
+            "ACG"
+        ],
+        "residual": "CT",
+        "sequence": "GCTCGCCGTATTTGACCCGATGCTGAGACGCT",
+        "genes": [
+            [
+                "GCT",
+                "CGC",
+                "CGT"
+            ],
+            [
+                "ATT",
+                "TGA",
+                "CCC"
+            ],
+            [
+                "GAT",
+                "GCT",
+                "GAG"
+            ],
+            [
+                "ACG",
+                "CT"
+            ]
+        ],
+        "texto": "gracias a todos por sus consejos, igual no voy a seguir ninguno",
+        "curado": true
+    },
+    "meme_47.jpg": {
+        "archivo": "meme_47.jpg",
+        "adn": "1bb4a90c2a202062957f55df395cd7a0",
+        "codons": [
+            "ATT",
+            "CCC",
+            "CAT",
+            "GGT",
+            "ACA",
+            "TGT",
+            "TTT",
+            "TTC",
+            "CCA",
+            "CCT"
+        ],
+        "residual": "AG",
+        "sequence": "ATTCCCCATGGTACATGTTTTTTCCCACCTAG",
+        "genes": [
+            [
+                "ATT",
+                "CCC",
+                "CAT"
+            ],
+            [
+                "GGT",
+                "ACA",
+                "TGT"
+            ],
+            [
+                "TTT",
+                "TTC",
+                "CCA"
+            ],
+            [
+                "CCT",
+                "AG"
+            ]
+        ],
+        "texto": "Por eso los funan",
+        "curado": true
+    },
+    "meme_48.jpg": {
+        "archivo": "meme_48.jpg",
+        "adn": "a10dce2f9b2e3368ed05c5771c776e24",
+        "codons": [
+            "GAA",
+            "TAG",
+            "GTC",
+            "TTG",
+            "AAT",
+            "AGT",
+            "AAG",
+            "TGG",
+            "TAT",
+            "TTC"
+        ],
+        "residual": "GT",
+        "sequence": "GAATAGGTCTTGAATAGTAAGTGGTATTTCGT",
+        "genes": [
+            [
+                "GAA",
+                "TAG",
+                "GTC"
+            ],
+            [
+                "TTG",
+                "AAT",
+                "AGT"
+            ],
+            [
+                "AAG",
+                "TGG",
+                "TAT"
+            ],
+            [
+                "TTC",
+                "GT"
+            ]
+        ],
+        "texto": "Upa, casi piso al amor de mi vida, mi sol, mi mundo, la luz de mi vida, el niño de mis ojitos, el dueño de mi corazón <3",
+        "curado": true
+    },
+    "meme_49.jpg": {
+        "archivo": "meme_49.jpg",
+        "adn": "c2f33628a8ff6f2fe181a3067fe239cc",
+        "codons": [
+            "AGA",
+            "GGG",
+            "ACC",
+            "TCC",
+            "ACA",
+            "TCC",
+            "CAC",
+            "CGC",
+            "AGA",
+            "CCG"
+        ],
+        "residual": "GA",
+        "sequence": "AGAGGGACCTCCACATCCCACCGCAGACCGGA",
+        "genes": [
+            [
+                "AGA",
+                "GGG",
+                "ACC"
+            ],
+            [
+                "TCC",
+                "ACA",
+                "TCC"
+            ],
+            [
+                "CAC",
+                "CGC",
+                "AGA"
+            ],
+            [
+                "CCG",
+                "GA"
+            ]
+        ],
+        "texto": "MI GALERÍA fotos mias, fotos de",
+        "curado": true
+    },
+    "meme_50.jpg": {
+        "archivo": "meme_50.jpg",
+        "adn": "bdd0664026dde0b330e2739e1f5f5970",
+        "codons": [
+            "GAA",
+            "TGA",
+            "GGC",
+            "CTT",
+            "TCC",
+            "ATG",
+            "AGA",
+            "GAC",
+            "TAC",
+            "GAA"
+        ],
+        "residual": "AT",
+        "sequence": "GAATGAGGCCTTTCCATGAGAGACTACGAAAT",
+        "genes": [
+            [
+                "GAA",
+                "TGA",
+                "GGC"
+            ],
+            [
+                "CTT",
+                "TCC",
+                "ATG"
+            ],
+            [
+                "AGA",
+                "GAC",
+                "TAC"
+            ],
+            [
+                "GAA",
+                "AT"
+            ]
+        ],
+        "texto": "cans hada",
+        "curado": true
+    },
+    "meme_51.jpg": {
+        "archivo": "meme_51.jpg",
+        "adn": "f77f97112592eb3898517ebe4fab4846",
+        "codons": [
+            "CTT",
+            "GAA",
+            "ATT",
+            "CTC",
+            "GGG",
+            "CGG",
+            "TTG",
+            "CCA",
+            "ACA",
+            "TTC"
+        ],
+        "residual": "AC",
+        "sequence": "CTTGAAATTCTCGGGCGGTTGCCAACATTCAC",
+        "genes": [
+            [
+                "CTT",
+                "GAA",
+                "ATT"
+            ],
+            [
+                "CTC",
+                "GGG",
+                "CGG"
+            ],
+            [
+                "TTG",
+                "CCA",
+                "ACA"
+            ],
+            [
+                "TTC",
+                "AC"
+            ]
+        ],
+        "texto": "chau, ya me voy a dormir",
+        "curado": true
+    },
+    "meme_52.jpg": {
+        "archivo": "meme_52.jpg",
+        "adn": "ce725b5e35175b024408be050476da95",
+        "codons": [
+            "GGG",
+            "TCA",
+            "ATA",
+            "CGA",
+            "AGC",
+            "ATA",
+            "GTG",
+            "AAT",
+            "GAG",
+            "CTT"
+        ],
+        "residual": "AA",
+        "sequence": "GGGTCAATACGAAGCATAGTGAATGAGCTTAA",
+        "genes": [
+            [
+                "GGG",
+                "TCA",
+                "ATA"
+            ],
+            [
+                "CGA",
+                "AGC",
+                "ATA"
+            ],
+            [
+                "GTG",
+                "AAT",
+                "GAG"
+            ],
+            [
+                "CTT",
+                "AA"
+            ]
+        ],
+        "texto": "Hasta mi café está saliendo con alguien; y yo no",
+        "curado": true
+    },
+    "meme_53.jpg": {
+        "archivo": "meme_53.jpg",
+        "adn": "c78c1f736c4c7f5422bf89d2dc9e4b59",
+        "codons": [
+            "CCG",
+            "AAC",
+            "GCA",
+            "CTT",
+            "TTC",
+            "GAG",
+            "TCG",
+            "CAT",
+            "ACG",
+            "TTA"
+        ],
+        "residual": "TA",
+        "sequence": "CCGAACGCACTTTTCGAGTCGCATACGTTATA",
+        "genes": [
+            [
+                "CCG",
+                "AAC",
+                "GCA"
+            ],
+            [
+                "CTT",
+                "TTC",
+                "GAG"
+            ],
+            [
+                "TCG",
+                "CAT",
+                "ACG"
+            ],
+            [
+                "TTA",
+                "TA"
+            ]
+        ],
+        "texto": "me caigo a pedazos",
+        "curado": true
+    },
+    "meme_54.jpg": {
+        "archivo": "meme_54.jpg",
+        "adn": "131745e14ede9e14143b0c9830e04a61",
+        "codons": [
+            "CTC",
+            "TGT",
+            "CAA",
+            "GTG",
+            "CTG",
+            "TTT",
+            "TAC",
+            "TTG",
+            "ATC",
+            "CCC"
+        ],
+        "residual": "CC",
+        "sequence": "CTCTGTCAAGTGCTGTTTTACTTGATCCCCCC",
+        "genes": [
+            [
+                "CTC",
+                "TGT",
+                "CAA"
+            ],
+            [
+                "GTG",
+                "CTG",
+                "TTT"
+            ],
+            [
+                "TAC",
+                "TTG",
+                "ATC"
+            ],
+            [
+                "CCC",
+                "CC"
+            ]
+        ],
+        "texto": "quesería de mi sin vos salame",
+        "curado": true
+    },
+    "meme_55.jpg": {
+        "archivo": "meme_55.jpg",
+        "adn": "95b76b18229ee3a8a6106f9bdf599125",
+        "codons": [
+            "CTT",
+            "ATC",
+            "GAA",
+            "CTG",
+            "GCC",
+            "CTT",
+            "GAT",
+            "GAA",
+            "TCG",
+            "GCA"
+        ],
+        "residual": "CA",
+        "sequence": "CTTATCGAACTGGCCCTTGATGAATCGGCACA",
+        "genes": [
+            [
+                "CTT",
+                "ATC",
+                "GAA"
+            ],
+            [
+                "CTG",
+                "GCC",
+                "CTT"
+            ],
+            [
+                "GAT",
+                "GAA",
+                "TCG"
+            ],
+            [
+                "GCA",
+                "CA"
+            ]
+        ],
+        "texto": "Alos Gatos como vos NIKAVIDA",
+        "curado": true
+    },
+    "meme_56.jpg": {
+        "archivo": "meme_56.jpg",
+        "adn": "214cae1c2ed64e5ddd37ba7e18c7ad0d",
+        "codons": [
+            "AGT",
+            "CGA",
+            "CTG",
+            "TCC",
+            "ACC",
+            "CAG",
+            "CCC",
+            "CAC",
+            "GCA",
+            "TAA"
+        ],
+        "residual": "TG",
+        "sequence": "AGTCGACTGTCCACCCAGCCCCACGCATAATG",
+        "genes": [
+            [
+                "AGT",
+                "CGA",
+                "CTG"
+            ],
+            [
+                "TCC",
+                "ACC",
+                "CAG"
+            ],
+            [
+                "CCC",
+                "CAC",
+                "GCA"
+            ],
+            [
+                "TAA",
+                "TG"
+            ]
+        ],
+        "texto": "Cuando te enteras que coso Tipo nose pero cuando te pasa algo sad qcy y vos tipo",
+        "curado": true
+    },
+    "meme_57.jpg": {
+        "archivo": "meme_57.jpg",
+        "adn": "3ee9bbe5f1875ec687a5a94089355372",
+        "codons": [
+            "ATG",
+            "CAT",
+            "CCT",
+            "ATC",
+            "AAG",
+            "TCT",
+            "GGT",
+            "CCC",
+            "GGC",
+            "TAG"
+        ],
+        "residual": "GT",
+        "sequence": "ATGCATCCTATCAAGTCTGGTCCCGGCTAGGT",
+        "genes": [
+            [
+                "ATG",
+                "CAT",
+                "CCT"
+            ],
+            [
+                "ATC",
+                "AAG",
+                "TCT"
+            ],
+            [
+                "GGT",
+                "CCC",
+                "GGC"
+            ],
+            [
+                "TAG",
+                "GT"
+            ]
+        ],
+        "texto": "XD",
+        "curado": true
+    },
+    "meme_58.jpg": {
+        "archivo": "meme_58.jpg",
+        "adn": "91629c12b484cf4258c68ddb5cccc4fd",
+        "codons": [
+            "GAT",
+            "TGT",
+            "CTG",
+            "GAA",
+            "CCG",
+            "ATG",
+            "CAG",
+            "GCA",
+            "TGG",
+            "ATC"
+        ],
+        "residual": "CC",
+        "sequence": "GATTGTCTGGAACCGATGCAGGCATGGATCCC",
+        "genes": [
+            [
+                "GAT",
+                "TGT",
+                "CTG"
+            ],
+            [
+                "GAA",
+                "CCG",
+                "ATG"
+            ],
+            [
+                "CAG",
+                "GCA",
+                "TGG"
+            ],
+            [
+                "ATC",
+                "CC"
+            ]
+        ],
+        "texto": ">:V",
+        "curado": true
+    },
+    "meme_59.jpg": {
+        "archivo": "meme_59.jpg",
+        "adn": "d24652360aaca90d9cd9eae74c00ec91",
+        "codons": [
+            "CTA",
+            "GCG",
+            "CTG",
+            "GAG",
+            "TAC",
+            "TGG",
+            "GTT",
+            "AAA",
+            "CTC",
+            "CCT"
+        ],
+        "residual": "CC",
+        "sequence": "CTAGCGCTGGAGTACTGGGTTAAACTCCCTCC",
+        "genes": [
+            [
+                "CTA",
+                "GCG",
+                "CTG"
+            ],
+            [
+                "GAG",
+                "TAC",
+                "TGG"
+            ],
+            [
+                "GTT",
+                "AAA",
+                "CTC"
+            ],
+            [
+                "CCT",
+                "CC"
+            ]
+        ],
+        "texto": ":O",
+        "curado": true
+    },
+    "meme_60.jpg": {
+        "archivo": "meme_60.jpg",
+        "adn": "045a9a935eb7da40849192fe813c5605",
+        "codons": [
+            "CTG",
+            "GGG",
+            "AGA",
+            "GGT",
+            "TTC",
+            "GAA",
+            "GTA",
+            "CAA",
+            "GGA",
+            "TTG"
+        ],
+        "residual": "GA",
+        "sequence": "CTGGGGAGAGGTTTCGAAGTACAAGGATTGGA",
+        "genes": [
+            [
+                "CTG",
+                "GGG",
+                "AGA"
+            ],
+            [
+                "GGT",
+                "TTC",
+                "GAA"
+            ],
+            [
+                "GTA",
+                "CAA",
+                "GGA"
+            ],
+            [
+                "TTG",
+                "GA"
+            ]
+        ],
+        "texto": "sabes Ke Pasa wachin estas celoso",
+        "curado": true
+    },
+    "meme_61.jpg": {
+        "archivo": "meme_61.jpg",
+        "adn": "8f8fa49506edeb53102de8f8b151938e",
+        "codons": [
+            "CAT",
+            "CGT",
+            "GGC",
+            "GGA",
+            "TGA",
+            "GCA",
+            "AGC",
+            "CAA",
+            "AAA",
+            "GTC"
+        ],
+        "residual": "AA",
+        "sequence": "CATCGTGGCGGATGAGCAAGCCAAAAAGTCAA",
+        "genes": [
+            [
+                "CAT",
+                "CGT",
+                "GGC"
+            ],
+            [
+                "GGA",
+                "TGA",
+                "GCA"
+            ],
+            [
+                "AGC",
+                "CAA",
+                "AAA"
+            ],
+            [
+                "GTC",
+                "AA"
+            ]
+        ],
+        "texto": "que pinta que procede que se proclama que se va a dar que va a suceder que fluye que interviene que decision se toma, que se realiza",
+        "curado": true
+    },
+    "meme_62.jpg": {
+        "archivo": "meme_62.jpg",
+        "adn": "54ed1aad53e3a9f4afa878ba7075ed43",
+        "codons": [
+            "ACT",
+            "TGA",
+            "CGG",
+            "TCC",
+            "CAC",
+            "CCG",
+            "GAG",
+            "CGT",
+            "CAT",
+            "AGT"
+        ],
+        "residual": "GT",
+        "sequence": "ACTTGACGGTCCCACCCGGAGCGTCATAGTGT",
+        "genes": [
+            [
+                "ACT",
+                "TGA",
+                "CGG"
+            ],
+            [
+                "TCC",
+                "CAC",
+                "CCG"
+            ],
+            [
+                "GAG",
+                "CGT",
+                "CAT"
+            ],
+            [
+                "AGT",
+                "GT"
+            ]
+        ],
+        "texto": "razones por las cuales nadie me acompaña a compar: no compro con giles",
+        "curado": true
+    },
+    "meme_63.jpg": {
+        "archivo": "meme_63.jpg",
+        "adn": "8daa374282ab209340a96240452917f0",
+        "codons": [
+            "TGC",
+            "CGG",
+            "CGA",
+            "GAC",
+            "TAC",
+            "GCA",
+            "GGT",
+            "CGC",
+            "AGA",
+            "GAA"
+        ],
+        "residual": "AT",
+        "sequence": "TGCCGGCGAGACTACGCAGGTCGCAGAGAAAT",
+        "genes": [
+            [
+                "TGC",
+                "CGG",
+                "CGA"
+            ],
+            [
+                "GAC",
+                "TAC",
+                "GCA"
+            ],
+            [
+                "GGT",
+                "CGC",
+                "AGA"
+            ],
+            [
+                "GAA",
+                "AT"
+            ]
+        ],
+        "texto": "Ojo de loca no se equivoca",
+        "curado": true
+    },
+    "meme_64.jpg": {
+        "archivo": "meme_64.jpg",
+        "adn": "588f0945a78d75b34cc77c8e81d6a1bc",
+        "codons": [
+            "GAT",
+            "GCT",
+            "ATG",
+            "TCC",
+            "ATA",
+            "GAG",
+            "TGC",
+            "CAA",
+            "CCG",
+            "GAC"
+        ],
+        "residual": "CG",
+        "sequence": "GATGCTATGTCCATAGAGTGCCAACCGGACCG",
+        "genes": [
+            [
+                "GAT",
+                "GCT",
+                "ATG"
+            ],
+            [
+                "TCC",
+                "ATA",
+                "GAG"
+            ],
+            [
+                "TGC",
+                "CAA",
+                "CCG"
+            ],
+            [
+                "GAC",
+                "CG"
+            ]
+        ],
+        "texto": "fuersa lesbiana",
+        "curado": true
+    },
+    "meme_65.jpg": {
+        "archivo": "meme_65.jpg",
+        "adn": "f8c6bdad0b2f80b2201d4505a70ac17c",
+        "codons": [
+            "TAA",
+            "GCC",
+            "GGA",
+            "CCC",
+            "TTA",
+            "AAG",
+            "CGA",
+            "TTT",
+            "TGT",
+            "CCA"
+        ],
+        "residual": "CT",
+        "sequence": "TAAGCCGGACCCTTAAAGCGATTTTGTCCACT",
+        "genes": [
+            [
+                "TAA",
+                "GCC",
+                "GGA"
+            ],
+            [
+                "CCC",
+                "TTA",
+                "AAG"
+            ],
+            [
+                "CGA",
+                "TTT",
+                "TGT"
+            ],
+            [
+                "CCA",
+                "CT"
+            ]
+        ],
+        "texto": "hay que volverse loco no hay que tranquilizarse",
+        "curado": true
+    },
+    "meme_66.jpg": {
+        "archivo": "meme_66.jpg",
+        "adn": "c62606bde46113f84b197b596feb43b0",
+        "codons": [
+            "GGC",
+            "TAC",
+            "GAG",
+            "AGG",
+            "TCG",
+            "TAG",
+            "GGA",
+            "ATG",
+            "CAG",
+            "ACC"
+        ],
+        "residual": "GG",
+        "sequence": "GGCTACGAGAGGTCGTAGGGAATGCAGACCGG",
+        "genes": [
+            [
+                "GGC",
+                "TAC",
+                "GAG"
+            ],
+            [
+                "AGG",
+                "TCG",
+                "TAG"
+            ],
+            [
+                "GGA",
+                "ATG",
+                "CAG"
+            ],
+            [
+                "ACC",
+                "GG"
+            ]
+        ],
+        "texto": "Me liberé del EGO soy un CAPO",
+        "curado": true
+    },
+    "meme_67.jpg": {
+        "archivo": "meme_67.jpg",
+        "adn": "ac11ec764f720fbd7ecca5251ad8f8be",
+        "codons": [
+            "AGG",
+            "CTC",
+            "CAG",
+            "ACA",
+            "AGT",
+            "TAA",
+            "CCT",
+            "CCC",
+            "AGA",
+            "GGG"
+        ],
+        "residual": "TT",
+        "sequence": "AGGCTCCAGACAAGTTAACCTCCCAGAGGGTT",
+        "genes": [
+            [
+                "AGG",
+                "CTC",
+                "CAG"
+            ],
+            [
+                "ACA",
+                "AGT",
+                "TAA"
+            ],
+            [
+                "CCT",
+                "CCC",
+                "AGA"
+            ],
+            [
+                "GGG",
+                "TT"
+            ]
+        ],
+        "texto": "ahora no bebe a mami le hicieron jijijija en Clash royale",
+        "curado": true
+    },
+    "meme_68.jpg": {
+        "archivo": "meme_68.jpg",
+        "adn": "a68425f84d889f4aeb0aed569b962a0e",
+        "codons": [
+            "TAG",
+            "ATG",
+            "ACC",
+            "TGC",
+            "GAG",
+            "TTG",
+            "TAA",
+            "TTA",
+            "ACC",
+            "TAT"
+        ],
+        "residual": "TC",
+        "sequence": "TAGATGACCTGCGAGTTGTAATTAACCTATTC",
+        "genes": [
+            [
+                "TAG",
+                "ATG",
+                "ACC"
+            ],
+            [
+                "TGC",
+                "GAG",
+                "TTG"
+            ],
+            [
+                "TAA",
+                "TTA",
+                "ACC"
+            ],
+            [
+                "TAT",
+                "TC"
+            ]
+        ],
+        "texto": "tanta delicuencia y nadie me roba el corazón",
+        "curado": true
+    },
+    "meme_69.jpg": {
+        "archivo": "meme_69.jpg",
+        "adn": "6dbe2ee3a897fa8db49a93f330da3dbe",
+        "codons": [
+            "CGG",
+            "CCT",
+            "AGA",
+            "ATC",
+            "ACA",
+            "GAA",
+            "TCT",
+            "TTG",
+            "GAC",
+            "ATC"
+        ],
+        "residual": "CT",
+        "sequence": "CGGCCTAGAATCACAGAATCTTTGGACATCCT",
+        "genes": [
+            [
+                "CGG",
+                "CCT",
+                "AGA"
+            ],
+            [
+                "ATC",
+                "ACA",
+                "GAA"
+            ],
+            [
+                "TCT",
+                "TTG",
+                "GAC"
+            ],
+            [
+                "ATC",
+                "CT"
+            ]
+        ],
+        "texto": "más feliz que tres tristes tigres",
+        "curado": true
+    },
+    "meme_70.jpg": {
+        "archivo": "meme_70.jpg",
+        "adn": "c531223732c647dc82524e098a1e9245",
+        "codons": [
+            "CTC",
+            "ATA",
+            "TTT",
+            "CCG",
+            "GGG",
+            "GTA",
+            "CAA",
+            "CCT",
+            "GCA",
+            "ATA"
+        ],
+        "residual": "TA",
+        "sequence": "CTCATATTTCCGGGGGTACAACCTGCAATATA",
+        "genes": [
+            [
+                "CTC",
+                "ATA",
+                "TTT"
+            ],
+            [
+                "CCG",
+                "GGG",
+                "GTA"
+            ],
+            [
+                "CAA",
+                "CCT",
+                "GCA"
+            ],
+            [
+                "ATA",
+                "TA"
+            ]
+        ],
+        "texto": "los rumores son ciertos, ya no salgo",
+        "curado": true
+    },
+    "meme_71.jpg": {
+        "archivo": "meme_71.jpg",
+        "adn": "3adfac567d64b1ae1f041b6bc068d64a",
+        "codons": [
+            "CAA",
+            "TAT",
+            "GGG",
+            "ATA",
+            "AGC",
+            "CAC",
+            "TCG",
+            "TGG",
+            "CTG",
+            "GAA"
+        ],
+        "residual": "GG",
+        "sequence": "CAATATGGGATAAGCCACTCGTGGCTGGAAGG",
+        "genes": [
+            [
+                "CAA",
+                "TAT",
+                "GGG"
+            ],
+            [
+                "ATA",
+                "AGC",
+                "CAC"
+            ],
+            [
+                "TCG",
+                "TGG",
+                "CTG"
+            ],
+            [
+                "GAA",
+                "GG"
+            ]
+        ],
+        "texto": "no soy stalker soy tu angel guardian",
+        "curado": true
+    },
+    "meme_72.jpg": {
+        "archivo": "meme_72.jpg",
+        "adn": "c81773fa82416a8634da0cc6d3f38ca6",
+        "codons": [
+            "TCA",
+            "TAA",
+            "ACC",
+            "AGG",
+            "GAT",
+            "AGA",
+            "TAG",
+            "AGA",
+            "CAA",
+            "ACC"
+        ],
+        "residual": "AG",
+        "sequence": "TCATAAACCAGGGATAGATAGAGACAAACCAG",
+        "genes": [
+            [
+                "TCA",
+                "TAA",
+                "ACC"
+            ],
+            [
+                "AGG",
+                "GAT",
+                "AGA"
+            ],
+            [
+                "TAG",
+                "AGA",
+                "CAA"
+            ],
+            [
+                "ACC",
+                "AG"
+            ]
+        ],
+        "texto": "me invitaron a una fiesta de 15 años, pero solo fui 2 hora porque 15 años es mucho",
+        "curado": true
+    },
+    "meme_73.jpg": {
+        "archivo": "meme_73.jpg",
+        "adn": "c250089365a6cb2d5d02f5e3dca5d28a",
+        "codons": [
+            "GCC",
+            "GTG",
+            "GGC",
+            "CTT",
+            "ATG",
+            "GGG",
+            "AAC",
+            "CGG",
+            "GTT",
+            "AAG"
+        ],
+        "residual": "TT",
+        "sequence": "GCCGTGGGCCTTATGGGGAACCGGGTTAAGTT",
+        "genes": [
+            [
+                "GCC",
+                "GTG",
+                "GGC"
+            ],
+            [
+                "CTT",
+                "ATG",
+                "GGG"
+            ],
+            [
+                "AAC",
+                "CGG",
+                "GTT"
+            ],
+            [
+                "AAG",
+                "TT"
+            ]
+        ],
+        "texto": "demasiado angelical para este mundo",
+        "curado": true
+    },
+    "meme_74.jpg": {
+        "archivo": "meme_74.jpg",
+        "adn": "2bd7fef58288a69172e1c8c9087993c9",
+        "codons": [
+            "GAC",
+            "CCA",
+            "TAA",
+            "ACT",
+            "TGC",
+            "AAC",
+            "TCC",
+            "GGG",
+            "AGG",
+            "ATT"
+        ],
+        "residual": "GG",
+        "sequence": "GACCCATAAACTTGCAACTCCGGGAGGATTGG",
+        "genes": [
+            [
+                "GAC",
+                "CCA",
+                "TAA"
+            ],
+            [
+                "ACT",
+                "TGC",
+                "AAC"
+            ],
+            [
+                "TCC",
+                "GGG",
+                "AGG"
+            ],
+            [
+                "ATT",
+                "GG"
+            ]
+        ],
+        "texto": "viviendo en mi propio mundo",
+        "curado": true
+    },
+    "meme_75.jpg": {
+        "archivo": "meme_75.jpg",
+        "adn": "64ad5d6847683905473741776b5b7a5d",
+        "codons": [
+            "AGA",
+            "CCT",
+            "ATG",
+            "CCA",
+            "CCG",
+            "ATA",
+            "CCT",
+            "ATT",
+            "GAC",
+            "CTG"
+        ],
+        "residual": "AT",
+        "sequence": "AGACCTATGCCACCGATACCTATTGACCTGAT",
+        "genes": [
+            [
+                "AGA",
+                "CCT",
+                "ATG"
+            ],
+            [
+                "CCA",
+                "CCG",
+                "ATA"
+            ],
+            [
+                "CCT",
+                "ATT",
+                "GAC"
+            ],
+            [
+                "CTG",
+                "AT"
+            ]
+        ],
+        "texto": "when te papean",
+        "curado": true
+    },
+    "meme_76.jpg": {
+        "archivo": "meme_76.jpg",
+        "adn": "5d0eb1b710636d27cbe01ad6dcf74f67",
+        "codons": [
+            "AAG",
+            "ATT",
+            "TTA",
+            "AGG",
+            "ACA",
+            "ACT",
+            "ACT",
+            "GGC",
+            "GGA",
+            "GCT"
+        ],
+        "residual": "AG",
+        "sequence": "AAGATTTTAAGGACAACTACTGGCGGAGCTAG",
+        "genes": [
+            [
+                "AAG",
+                "ATT",
+                "TTA"
+            ],
+            [
+                "AGG",
+                "ACA",
+                "ACT"
+            ],
+            [
+                "ACT",
+                "GGC",
+                "GGA"
+            ],
+            [
+                "GCT",
+                "AG"
+            ]
+        ],
+        "texto": "ese void ya lo vi",
+        "curado": true
+    },
+    "meme_77.jpg": {
+        "archivo": "meme_77.jpg",
+        "adn": "f5d515f2e53a55132719c9d8320e8fc1",
+        "codons": [
+            "GCC",
+            "TGC",
+            "ATT",
+            "AGA",
+            "GTG",
+            "CAG",
+            "TCA",
+            "CCC",
+            "TGC",
+            "TAG"
+        ],
+        "residual": "TA",
+        "sequence": "GCCTGCATTAGAGTGCAGTCACCCTGCTAGTA",
+        "genes": [
+            [
+                "GCC",
+                "TGC",
+                "ATT"
+            ],
+            [
+                "AGA",
+                "GTG",
+                "CAG"
+            ],
+            [
+                "TCA",
+                "CCC",
+                "TGC"
+            ],
+            [
+                "TAG",
+                "TA"
+            ]
+        ],
+        "texto": "Te falto decir el contexto",
+        "curado": true
+    },
+    "meme_78.jpg": {
+        "archivo": "meme_78.jpg",
+        "adn": "75446d73007eef57adb333bf433e53a0",
+        "codons": [
+            "GCA",
+            "TGG",
+            "TTT",
+            "TCC",
+            "AGG",
+            "AAG",
+            "GAC",
+            "GGC",
+            "AGA",
+            "AGT"
+        ],
+        "residual": "AT",
+        "sequence": "GCATGGTTTTCCAGGAAGGACGGCAGAAGTAT",
+        "genes": [
+            [
+                "GCA",
+                "TGG",
+                "TTT"
+            ],
+            [
+                "TCC",
+                "AGG",
+                "AAG"
+            ],
+            [
+                "GAC",
+                "GGC",
+                "AGA"
+            ],
+            [
+                "AGT",
+                "AT"
+            ]
+        ],
+        "texto": "SEA SERIO Atentamente los zombis",
+        "curado": true
+    },
+    "meme_79.jpg": {
+        "archivo": "meme_79.jpg",
+        "adn": "093023a24e4e59ce8f86f3969c39b6e9",
+        "codons": [
+            "GTA",
+            "CGA",
+            "CGT",
+            "AAA",
+            "CCT",
+            "AGA",
+            "GGA",
+            "TTG",
+            "TAG",
+            "AGC"
+        ],
+        "residual": "CT",
+        "sequence": "GTACGACGTAAACCTAGAGGATTGTAGAGCCT",
+        "genes": [
+            [
+                "GTA",
+                "CGA",
+                "CGT"
+            ],
+            [
+                "AAA",
+                "CCT",
+                "AGA"
+            ],
+            [
+                "GGA",
+                "TTG",
+                "TAG"
+            ],
+            [
+                "AGC",
+                "CT"
+            ]
+        ],
+        "texto": "Los rumores son ciertos, soy muy sensible y lloro por todo",
+        "curado": true
+    },
+    "meme_80.jpg": {
+        "archivo": "meme_80.jpg",
+        "adn": "05d5e2fe8ee7516c856f91bc9e5fe9e5",
+        "codons": [
+            "AAC",
+            "TAC",
+            "GGA",
+            "CTT",
+            "TCC",
+            "CAA",
+            "TCA",
+            "CCG",
+            "GAG",
+            "GCA"
+        ],
+        "residual": "AC",
+        "sequence": "AACTACGGACTTTCCCAATCACCGGAGGCAAC",
+        "genes": [
+            [
+                "AAC",
+                "TAC",
+                "GGA"
+            ],
+            [
+                "CTT",
+                "TCC",
+                "CAA"
+            ],
+            [
+                "TCA",
+                "CCG",
+                "GAG"
+            ],
+            [
+                "GCA",
+                "AC"
+            ]
+        ],
+        "texto": "BEN Y sana mi DOLOR",
+        "curado": true
+    },
+    "meme_81.jpg": {
+        "archivo": "meme_81.jpg",
+        "adn": "b56a6111880b2ee895c1fe4cbf74f994",
+        "codons": [
+            "CGT",
+            "CAC",
+            "TCG",
+            "GCA",
+            "AAA",
+            "CGA",
+            "GAT",
+            "CAG",
+            "GAT",
+            "CCA"
+        ],
+        "residual": "TC",
+        "sequence": "CGTCACTCGGCAAAACGAGATCAGGATCCATC",
+        "genes": [
+            [
+                "CGT",
+                "CAC",
+                "TCG"
+            ],
+            [
+                "GCA",
+                "AAA",
+                "CGA"
+            ],
+            [
+                "GAT",
+                "CAG",
+                "GAT"
+            ],
+            [
+                "CCA",
+                "TC"
+            ]
+        ],
+        "texto": "TOY SIN LUZ",
+        "curado": true
+    },
+    "meme_82.jpg": {
+        "archivo": "meme_82.jpg",
+        "adn": "e36ec1a19118b7d7cf09550e7ee5a72a",
+        "codons": [
+            "ATC",
+            "AAG",
+            "GCT",
+            "TTT",
+            "CTG",
+            "GCA",
+            "GTA",
+            "TGT",
+            "TAA",
+            "TAC"
+        ],
+        "residual": "GA",
+        "sequence": "ATCAAGGCTTTTCTGGCAGTATGTTAATACGA",
+        "genes": [
+            [
+                "ATC",
+                "AAG",
+                "GCT"
+            ],
+            [
+                "TTT",
+                "CTG",
+                "GCA"
+            ],
+            [
+                "GTA",
+                "TGT",
+                "TAA"
+            ],
+            [
+                "TAC",
+                "GA"
+            ]
+        ],
+        "texto": "AVISO QUE SE AVISA, QUE EL AVISO, QUE SE IBA A AVISAR, NO SE AVISO Y SE AVISARA EN UN NUEVO AVISO",
+        "curado": true
+    },
+    "meme_83.jpg": {
+        "archivo": "meme_83.jpg",
+        "adn": "9c470003474a436b4014486eff621ed5",
+        "codons": [
+            "AGT",
+            "TTA",
+            "TGC",
+            "CCG",
+            "GAC",
+            "CCG",
+            "CGG",
+            "TTC",
+            "GAT",
+            "CAT"
+        ],
+        "residual": "GG",
+        "sequence": "AGTTTATGCCCGGACCCGCGGTTCGATCATGG",
+        "genes": [
+            [
+                "AGT",
+                "TTA",
+                "TGC"
+            ],
+            [
+                "CCG",
+                "GAC",
+                "CCG"
+            ],
+            [
+                "CGG",
+                "TTC",
+                "GAT"
+            ],
+            [
+                "CAT",
+                "GG"
+            ]
+        ],
+        "texto": "Megamente se desintegra tras ver tu pinche mamada xf",
+        "curado": true
+    },
+    "meme_84.jpg": {
+        "archivo": "meme_84.jpg",
+        "adn": "995ee12a2395c0b3a6988623d1ab7565",
+        "codons": [
+            "TAG",
+            "TGC",
+            "GGC",
+            "TAA",
+            "GCG",
+            "ACC",
+            "TGT",
+            "TAT",
+            "GAT",
+            "GGG"
+        ],
+        "residual": "TC",
+        "sequence": "TAGTGCGGCTAAGCGACCTGTTATGATGGGTC",
+        "genes": [
+            [
+                "TAG",
+                "TGC",
+                "GGC"
+            ],
+            [
+                "TAA",
+                "GCG",
+                "ACC"
+            ],
+            [
+                "TGT",
+                "TAT",
+                "GAT"
+            ],
+            [
+                "GGG",
+                "TC"
+            ]
+        ],
+        "texto": "but ya viste ese momo",
+        "curado": true
+    },
+    "meme_85.jpg": {
+        "archivo": "meme_85.jpg",
+        "adn": "66460d7fbb8c8dbb8b5d6b136b1f526f",
+        "codons": [
+            "GTC",
+            "AGA",
+            "AAC",
+            "GGC",
+            "CAG",
+            "CTC",
+            "CAC",
+            "CTC",
+            "GTG",
+            "GTG"
+        ],
+        "residual": "AA",
+        "sequence": "GTCAGAAACGGCCAGCTCCACCTCGTGGTGAA",
+        "genes": [
+            [
+                "GTC",
+                "AGA",
+                "AAC"
+            ],
+            [
+                "GGC",
+                "CAG",
+                "CTC"
+            ],
+            [
+                "CAC",
+                "CTC",
+                "GTG"
+            ],
+            [
+                "GTG",
+                "AA"
+            ]
+        ],
+        "texto": "When no hay momos :'v",
+        "curado": true
+    },
+    "meme_86.jpg": {
+        "archivo": "meme_86.jpg",
+        "adn": "61af7437c1c305153327a9e6e1c566b9",
+        "codons": [
+            "ACG",
+            "TTC",
+            "CGG",
+            "TCT",
+            "ATG",
+            "AGA",
+            "TGT",
+            "CCT",
+            "ATC",
+            "ACG"
+        ],
+        "residual": "AT",
+        "sequence": "ACGTTCCGGTCTATGAGATGTCCTATCACGAT",
+        "genes": [
+            [
+                "ACG",
+                "TTC",
+                "CGG"
+            ],
+            [
+                "TCT",
+                "ATG",
+                "AGA"
+            ],
+            [
+                "TGT",
+                "CCT",
+                "ATC"
+            ],
+            [
+                "ACG",
+                "AT"
+            ]
+        ],
+        "texto": "El papu:",
+        "curado": true
+    },
+    "meme_87.jpg": {
+        "archivo": "meme_87.jpg",
+        "adn": "9dcd6def8f5022c8bf48650edc04d806",
+        "codons": [
+            "TGC",
+            "AAA",
+            "GTT",
+            "AGT",
+            "GGG",
+            "GTG",
+            "TCG",
+            "TGT",
+            "GGA",
+            "CGC"
+        ],
+        "residual": "TT",
+        "sequence": "TGCAAAGTTAGTGGGGTGTCGTGTGGACGCTT",
+        "genes": [
+            [
+                "TGC",
+                "AAA",
+                "GTT"
+            ],
+            [
+                "AGT",
+                "GGG",
+                "GTG"
+            ],
+            [
+                "TCG",
+                "TGT",
+                "GGA"
+            ],
+            [
+                "CGC",
+                "TT"
+            ]
+        ],
+        "texto": "NO ME LA CONTEINER",
+        "curado": true
+    },
+    "meme_88.jpg": {
+        "archivo": "meme_88.jpg",
+        "adn": "e4651c28182ed41c60c6d2f1875e4eca",
+        "codons": [
+            "CGG",
+            "CGG",
+            "CTT",
+            "CTC",
+            "GTG",
+            "CCT",
+            "CCA",
+            "GGA",
+            "TGA",
+            "ATC"
+        ],
+        "residual": "CA",
+        "sequence": "CGGCGGCTTCTCGTGCCTCCAGGATGAATCCA",
+        "genes": [
+            [
+                "CGG",
+                "CGG",
+                "CTT"
+            ],
+            [
+                "CTC",
+                "GTG",
+                "CCT"
+            ],
+            [
+                "CCA",
+                "GGA",
+                "TGA"
+            ],
+            [
+                "ATC",
+                "CA"
+            ]
+        ],
+        "texto": "que me falte todo Menos mortadela",
+        "curado": true
+    },
+    "meme_89.jpg": {
+        "archivo": "meme_89.jpg",
+        "adn": "5036a0e6bf15740a210dfcb39307fb75",
+        "codons": [
+            "GTT",
+            "CGT",
+            "AGA",
+            "AAG",
+            "AGC",
+            "GTG",
+            "AGA",
+            "ACT",
+            "GAC",
+            "GAG"
+        ],
+        "residual": "AC",
+        "sequence": "GTTCGTAGAAAGAGCGTGAGAACTGACGAGAC",
+        "genes": [
+            [
+                "GTT",
+                "CGT",
+                "AGA"
+            ],
+            [
+                "AAG",
+                "AGC",
+                "GTG"
+            ],
+            [
+                "AGA",
+                "ACT",
+                "GAC"
+            ],
+            [
+                "GAG",
+                "AC"
+            ]
+        ],
+        "texto": "Joder; esto sí es literatura",
+        "curado": true
+    },
+    "meme_90.jpg": {
+        "archivo": "meme_90.jpg",
+        "adn": "608cf12acb3242d7116ab3b0d89e852b",
+        "codons": [
+            "CCC",
+            "TCG",
+            "TAT",
+            "TCC",
+            "TTT",
+            "CCG",
+            "CAG",
+            "CAC",
+            "TTT",
+            "ACA"
+        ],
+        "residual": "GG",
+        "sequence": "CCCTCGTATTCCTTTCCGCAGCACTTTACAGG",
+        "genes": [
+            [
+                "CCC",
+                "TCG",
+                "TAT"
+            ],
+            [
+                "TCC",
+                "TTT",
+                "CCG"
+            ],
+            [
+                "CAG",
+                "CAC",
+                "TTT"
+            ],
+            [
+                "ACA",
+                "GG"
+            ]
+        ],
+        "texto": "yo a las 1 am, yo a las 3 am, yo a las 5 am, yo 8 minutos antes d k suene la alarma",
+        "curado": true
+    },
+    "meme_91.jpg": {
+        "archivo": "meme_91.jpg",
+        "adn": "e5cc7f00108550dee4a20805ccd71ea0",
+        "codons": [
+            "ATA",
+            "AAC",
+            "CTG",
+            "ACT",
+            "AAT",
+            "GTC",
+            "TTC",
+            "AAA",
+            "GTC",
+            "AAA"
+        ],
+        "residual": "TG",
+        "sequence": "ATAAACCTGACTAATGTCTTCAAAGTCAAATG",
+        "genes": [
+            [
+                "ATA",
+                "AAC",
+                "CTG"
+            ],
+            [
+                "ACT",
+                "AAT",
+                "GTC"
+            ],
+            [
+                "TTC",
+                "AAA",
+                "GTC"
+            ],
+            [
+                "AAA",
+                "TG"
+            ]
+        ],
+        "texto": "Traigo chismeee",
+        "curado": true
+    },
+    "meme_92.jpg": {
+        "archivo": "meme_92.jpg",
+        "adn": "46e9428a767f11330b88caebc9ea5cbd",
+        "codons": [
+            "CAT",
+            "CTC",
+            "TGC",
+            "AAG",
+            "CGG",
+            "TAC",
+            "AAG",
+            "CCT",
+            "CCG",
+            "TAC"
+        ],
+        "residual": "GC",
+        "sequence": "CATCTCTGCAAGCGGTACAAGCCTCCGTACGC",
+        "genes": [
+            [
+                "CAT",
+                "CTC",
+                "TGC"
+            ],
+            [
+                "AAG",
+                "CGG",
+                "TAC"
+            ],
+            [
+                "AAG",
+                "CCT",
+                "CCG"
+            ],
+            [
+                "TAC",
+                "GC"
+            ]
+        ],
+        "texto": "Soy tan pro que hasta mi rodilla me dice [crack",
+        "curado": true
+    },
+    "meme_93.jpg": {
+        "archivo": "meme_93.jpg",
+        "adn": "8fea8cec12b503b9a47fd4d7e8e8054b",
+        "codons": [
+            "GAC",
+            "GGA",
+            "AAT",
+            "TTA",
+            "GCC",
+            "ACC",
+            "TTA",
+            "TTA",
+            "CGA",
+            "ATC"
+        ],
+        "residual": "GC",
+        "sequence": "GACGGAAATTTAGCCACCTTATTACGAATCGC",
+        "genes": [
+            [
+                "GAC",
+                "GGA",
+                "AAT"
+            ],
+            [
+                "TTA",
+                "GCC",
+                "ACC"
+            ],
+            [
+                "TTA",
+                "TTA",
+                "CGA"
+            ],
+            [
+                "ATC",
+                "GC"
+            ]
+        ],
+        "texto": "Cuando le dijiste que te ibas a bañar pero no te dijo \"A ver\"",
+        "curado": true
+    },
+    "meme_94.jpg": {
+        "archivo": "meme_94.jpg",
+        "adn": "fe39d10b82829616bb7abf648d775b4d",
+        "codons": [
+            "AAC",
+            "GCT",
+            "ATT",
+            "ACG",
+            "GTT",
+            "TTG",
+            "ACG",
+            "TGC",
+            "ACC",
+            "TCA"
+        ],
+        "residual": "CT",
+        "sequence": "AACGCTATTACGGTTTTGACGTGCACCTCACT",
+        "genes": [
+            [
+                "AAC",
+                "GCT",
+                "ATT"
+            ],
+            [
+                "ACG",
+                "GTT",
+                "TTG"
+            ],
+            [
+                "ACG",
+                "TGC",
+                "ACC"
+            ],
+            [
+                "TCA",
+                "CT"
+            ]
+        ],
+        "texto": "quedé:  ignorada.com",
+        "curado": true
+    },
+    "meme_95.jpg": {
+        "archivo": "meme_95.jpg",
+        "adn": "be830c35a5a5a220be3d1aa6aa44f7aa",
+        "codons": [
+            "CCC",
+            "AAC",
+            "ACC",
+            "ACA",
+            "GTT",
+            "TTC",
+            "TTG",
+            "GAA",
+            "ATC",
+            "GGT"
+        ],
+        "residual": "AC",
+        "sequence": "CCCAACACCACAGTTTTCTTGGAAATCGGTAC",
+        "genes": [
+            [
+                "CCC",
+                "AAC",
+                "ACC"
+            ],
+            [
+                "ACA",
+                "GTT",
+                "TTC"
+            ],
+            [
+                "TTG",
+                "GAA",
+                "ATC"
+            ],
+            [
+                "GGT",
+                "AC"
+            ]
+        ],
+        "texto": "Más seco q el corazón d un emo",
+        "curado": true
+    },
+    "meme_96.jpg": {
+        "archivo": "meme_96.jpg",
+        "adn": "99542d3289e54c003fb4c47e6ec78901",
+        "codons": [
+            "TCA",
+            "AGT",
+            "CCA",
+            "AAA",
+            "CTT",
+            "GTT",
+            "AGA",
+            "ACC",
+            "AAG",
+            "CGG"
+        ],
+        "residual": "GG",
+        "sequence": "TCAAGTCCAAAACTTGTTAGAACCAAGCGGGG",
+        "genes": [
+            [
+                "TCA",
+                "AGT",
+                "CCA"
+            ],
+            [
+                "AAA",
+                "CTT",
+                "GTT"
+            ],
+            [
+                "AGA",
+                "ACC",
+                "AAG"
+            ],
+            [
+                "CGG",
+                "GG"
+            ]
+        ],
+        "texto": "me quede minimo comun múltplo verbo to be escuchamos Y no juzgamos escuchamos Y Juzgamos escuchamos Y nos agarramos a cñz taki taki rumba quede estaba paralizado con mucho miedo Y no me podia mover quede ice frio hielo, quede aguda  grave y esdrújula vemos Y juzgamos quede plano cartesiano, quede arepa tieza",
+        "curado": true
+    },
+    "meme_97.jpg": {
+        "archivo": "meme_97.jpg",
+        "adn": "305d6bf3db056568a559a886b31f1508",
+        "codons": [
+            "AGC",
+            "AGC",
+            "GTT",
+            "GTA",
+            "ACC",
+            "CTT",
+            "GGC",
+            "TTG",
+            "GCT",
+            "CTT"
+        ],
+        "residual": "GT",
+        "sequence": "AGCAGCGTTGTAACCCTTGGCTTGGCTCTTGT",
+        "genes": [
+            [
+                "AGC",
+                "AGC",
+                "GTT"
+            ],
+            [
+                "GTA",
+                "ACC",
+                "CTT"
+            ],
+            [
+                "GGC",
+                "TTG",
+                "GCT"
+            ],
+            [
+                "CTT",
+                "GT"
+            ]
+        ],
+        "texto": "skibidi pomni digital fornite chamba free gigachad rizz omaigad floo xxxtentacion hotmail ronaldo junior mewing tercero chikibay xocas etesech  golden toy pupet ohio Rubén tuesta YouTube pro insano globo de texto 51 decadencia777",
+        "curado": true
+    },
+    "meme_98.jpg": {
+        "archivo": "meme_98.jpg",
+        "adn": "5b1afff490228032d3e69bbf17dff1f0",
+        "codons": [
+            "TCT",
+            "AAC",
+            "CTG",
+            "TTG",
+            "ACT",
+            "TCT",
+            "TCT",
+            "CGG",
+            "TTT",
+            "GGT"
+        ],
+        "residual": "GT",
+        "sequence": "TCTAACCTGTTGACTTCTTCTCGGTTTGGTGT",
+        "genes": [
+            [
+                "TCT",
+                "AAC",
+                "CTG"
+            ],
+            [
+                "TTG",
+                "ACT",
+                "TCT"
+            ],
+            [
+                "TCT",
+                "CGG",
+                "TTT"
+            ],
+            [
+                "GGT",
+                "GT"
+            ]
+        ],
+        "texto": "Te sientes muy onichan",
+        "curado": true
+    },
+    "meme_99.jpg": {
+        "archivo": "meme_99.jpg",
+        "adn": "a16c0adb569855bea1b509f71dfd1840",
+        "codons": [
+            "TTA",
+            "AAA",
+            "TGT",
+            "ATC",
+            "TTT",
+            "GTA",
+            "TAT",
+            "TTG",
+            "CCT",
+            "CGC"
+        ],
+        "residual": "AA",
+        "sequence": "TTAAAATGTATCTTTGTATATTTGCCTCGCAA",
+        "genes": [
+            [
+                "TTA",
+                "AAA",
+                "TGT"
+            ],
+            [
+                "ATC",
+                "TTT",
+                "GTA"
+            ],
+            [
+                "TAT",
+                "TTG",
+                "CCT"
+            ],
+            [
+                "CGC",
+                "AA"
+            ]
+        ],
+        "texto": "Adriana Salte",
+        "curado": true
+    },
+    "meme_100.jpg": {
+        "archivo": "meme_100.jpg",
+        "adn": "c4dd3b7193f751c395cfb63e8cee8631",
+        "codons": [
+            "CGT",
+            "GGG",
+            "ATT",
+            "GCG",
+            "TTT",
+            "TGC",
+            "GAG",
+            "CCA",
+            "TTT",
+            "CTT"
+        ],
+        "residual": "TG",
+        "sequence": "CGTGGGATTGCGTTTTGCGAGCCATTTCTTTG",
+        "genes": [
+            [
+                "CGT",
+                "GGG",
+                "ATT"
+            ],
+            [
+                "GCG",
+                "TTT",
+                "TGC"
+            ],
+            [
+                "GAG",
+                "CCA",
+                "TTT"
+            ],
+            [
+                "CTT",
+                "TG"
+            ]
+        ],
+        "texto": "kiero robux",
+        "curado": true
+    },
+    "meme_101.jpg": {
+        "archivo": "meme_101.jpg",
+        "adn": "2dad2edc795d8519dc325fa0d9662c50",
+        "codons": [
+            "CAC",
+            "GCA",
+            "AAA",
+            "ATC",
+            "AAC",
+            "TGG",
+            "TCC",
+            "CTA",
+            "GAT",
+            "ATT"
+        ],
+        "residual": "GA",
+        "sequence": "CACGCAAAAATCAACTGGTCCCTAGATATTGA",
+        "genes": [
+            [
+                "CAC",
+                "GCA",
+                "AAA"
+            ],
+            [
+                "ATC",
+                "AAC",
+                "TGG"
+            ],
+            [
+                "TCC",
+                "CTA",
+                "GAT"
+            ],
+            [
+                "ATT",
+                "GA"
+            ]
+        ],
+        "texto": "El jura haber devorado",
+        "curado": true
+    },
+    "meme_102.jpg": {
+        "archivo": "meme_102.jpg",
+        "adn": "23f326b26e81d5d5b1340030cd39d3aa",
+        "codons": [
+            "GGT",
+            "TAA",
+            "CCG",
+            "GTT",
+            "AGA",
+            "CAT",
+            "CGC",
+            "TCT",
+            "AAA",
+            "GTC"
+        ],
+        "residual": "GA",
+        "sequence": "GGTTAACCGGTTAGACATCGCTCTAAAGTCGA",
+        "genes": [
+            [
+                "GGT",
+                "TAA",
+                "CCG"
+            ],
+            [
+                "GTT",
+                "AGA",
+                "CAT"
+            ],
+            [
+                "CGC",
+                "TCT",
+                "AAA"
+            ],
+            [
+                "GTC",
+                "GA"
+            ]
+        ],
+        "texto": "Hola Comadre , Que tal? Tiene chisme? Algo interesante?",
+        "curado": true
+    },
+    "meme_103.jpg": {
+        "archivo": "meme_103.jpg",
+        "adn": "0f78f4cf6a0464a72f71766e393a6524",
+        "codons": [
+            "CCC",
+            "AAA",
+            "CAA",
+            "GCC",
+            "ATG",
+            "ACT",
+            "GGC",
+            "CAA",
+            "GAA",
+            "ATA"
+        ],
+        "residual": "AG",
+        "sequence": "CCCAAACAAGCCATGACTGGCCAAGAAATAAG",
+        "genes": [
+            [
+                "CCC",
+                "AAA",
+                "CAA"
+            ],
+            [
+                "GCC",
+                "ATG",
+                "ACT"
+            ],
+            [
+                "GGC",
+                "CAA",
+                "GAA"
+            ],
+            [
+                "ATA",
+                "AG"
+            ]
+        ],
+        "texto": "Consejo del día, ninguno porque ya es de noche.",
+        "curado": true
+    },
+    "meme_104.jpg": {
+        "archivo": "meme_104.jpg",
+        "adn": "d0c2ff275f2d7c3ff9f7e8e31995f158",
+        "codons": [
+            "ACT",
+            "CTT",
+            "GGT",
+            "TGA",
+            "ACC",
+            "ATG",
+            "CGT",
+            "AAG",
+            "TCC",
+            "CGG"
+        ],
+        "residual": "TA",
+        "sequence": "ACTCTTGGTTGAACCATGCGTAAGTCCCGGTA",
+        "genes": [
+            [
+                "ACT",
+                "CTT",
+                "GGT"
+            ],
+            [
+                "TGA",
+                "ACC",
+                "ATG"
+            ],
+            [
+                "CGT",
+                "AAG",
+                "TCC"
+            ],
+            [
+                "CGG",
+                "TA"
+            ]
+        ],
+        "texto": "Ya es hora ya es hora de crear escenarios ficticios en mi cabeza hasta quedarme dormido",
+        "curado": true
+    },
+    "meme_105.jpg": {
+        "archivo": "meme_105.jpg",
+        "adn": "802d7d2c7e36951b2e7ca318b0d1137a",
+        "codons": [
+            "ACG",
+            "TTT",
+            "AGC",
+            "GTA",
+            "TTA",
+            "CAT",
+            "ACC",
+            "AGT",
+            "TTC",
+            "GCA"
+        ],
+        "residual": "CA",
+        "sequence": "ACGTTTAGCGTATTACATACCAGTTTCGCACA",
+        "genes": [
+            [
+                "ACG",
+                "TTT",
+                "AGC"
+            ],
+            [
+                "GTA",
+                "TTA",
+                "CAT"
+            ],
+            [
+                "ACC",
+                "AGT",
+                "TTC"
+            ],
+            [
+                "GCA",
+                "CA"
+            ]
+        ],
+        "texto": "ustedes podran tener pareja, pero yo tengo un enchufe al lado de mi cama",
+        "curado": true
+    },
+    "meme_106.jpg": {
+        "archivo": "meme_106.jpg",
+        "adn": "ff61467c8244e39054ecb05fed864f5e",
+        "codons": [
+            "TTG",
+            "TTT",
+            "ATC",
+            "AGT",
+            "TGG",
+            "TTT",
+            "CGA",
+            "GGG",
+            "TCC",
+            "CTA"
+        ],
+        "residual": "CT",
+        "sequence": "TTGTTTATCAGTTGGTTTCGAGGGTCCCTACT",
+        "genes": [
+            [
+                "TTG",
+                "TTT",
+                "ATC"
+            ],
+            [
+                "AGT",
+                "TGG",
+                "TTT"
+            ],
+            [
+                "CGA",
+                "GGG",
+                "TCC"
+            ],
+            [
+                "CTA",
+                "CT"
+            ]
+        ],
+        "texto": "ser bollera es lo mejor y más si la bollera soy yo",
+        "curado": true
+    },
+    "meme_107.jpg": {
+        "archivo": "meme_107.jpg",
+        "adn": "f8db9d5fe4ed394bb1712325bd15d09d",
+        "codons": [
+            "GGA",
+            "GGG",
+            "TGG",
+            "GGG",
+            "TCC",
+            "TGT",
+            "CGT",
+            "ATT",
+            "AGT",
+            "TAT"
+        ],
+        "residual": "CA",
+        "sequence": "GGAGGGTGGGGGTCCTGTCGTATTAGTTATCA",
+        "genes": [
+            [
+                "GGA",
+                "GGG",
+                "TGG"
+            ],
+            [
+                "GGG",
+                "TCC",
+                "TGT"
+            ],
+            [
+                "CGT",
+                "ATT",
+                "AGT"
+            ],
+            [
+                "TAT",
+                "CA"
+            ]
+        ],
+        "texto": "ERA BAIT AMIGOS",
+        "curado": true
+    },
+    "meme_108.jpg": {
+        "archivo": "meme_108.jpg",
+        "adn": "df41242d87824873e6fd02897915fcb9",
+        "codons": [
+            "AAT",
+            "AGC",
+            "CGT",
+            "TGC",
+            "GCA",
+            "AGC",
+            "AAG",
+            "GAG",
+            "TTG",
+            "ACA"
+        ],
+        "residual": "AA",
+        "sequence": "AATAGCCGTTGCGCAAGCAAGGAGTTGACAAA",
+        "genes": [
+            [
+                "AAT",
+                "AGC",
+                "CGT"
+            ],
+            [
+                "TGC",
+                "GCA",
+                "AGC"
+            ],
+            [
+                "AAG",
+                "GAG",
+                "TTG"
+            ],
+            [
+                "ACA",
+                "AA"
+            ]
+        ],
+        "texto": "Me la fokin pela chaval",
+        "curado": true
+    },
+    "meme_109.jpg": {
+        "archivo": "meme_109.jpg",
+        "adn": "8d4f5f3570147bd12c1aaa5f174558c6",
+        "codons": [
+            "GCT",
+            "GAC",
+            "TTC",
+            "AGC",
+            "ACC",
+            "AGT",
+            "ATT",
+            "TAC",
+            "TCG",
+            "AAA"
+        ],
+        "residual": "GG",
+        "sequence": "GCTGACTTCAGCACCAGTATTTACTCGAAAGG",
+        "genes": [
+            [
+                "GCT",
+                "GAC",
+                "TTC"
+            ],
+            [
+                "AGC",
+                "ACC",
+                "AGT"
+            ],
+            [
+                "ATT",
+                "TAC",
+                "TCG"
+            ],
+            [
+                "AAA",
+                "GG"
+            ]
+        ],
+        "texto": "si es niña Shein y si es niño temu",
+        "curado": true
+    },
+    "meme_110.jpg": {
+        "archivo": "meme_110.jpg",
+        "adn": "b1b567319383f4bd1ab07ec64d51d51a",
+        "codons": [
+            "GCC",
+            "TTG",
+            "CGT",
+            "GAC",
+            "CTC",
+            "GCC",
+            "CAT",
+            "GAA",
+            "CTC",
+            "GCT"
+        ],
+        "residual": "GT",
+        "sequence": "GCCTTGCGTGACCTCGCCCATGAACTCGCTGT",
+        "genes": [
+            [
+                "GCC",
+                "TTG",
+                "CGT"
+            ],
+            [
+                "GAC",
+                "CTC",
+                "GCC"
+            ],
+            [
+                "CAT",
+                "GAA",
+                "CTC"
+            ],
+            [
+                "GCT",
+                "GT"
+            ]
+        ],
+        "texto": "PERDONA a tus enemigos, pero nunca olvides que por cada taza de arroz 2 de agua",
+        "curado": true
+    },
+    "meme_111.jpg": {
+        "archivo": "meme_111.jpg",
+        "adn": "0298f07cb9eb92a19dfb1b65962920dd",
+        "codons": [
+            "ATC",
+            "CGT",
+            "GCT",
+            "GAG",
+            "CAA",
+            "ACA",
+            "CTT",
+            "CGG",
+            "GAG",
+            "CGT"
+        ],
+        "residual": "GC",
+        "sequence": "ATCCGTGCTGAGCAAACACTTCGGGAGCGTGC",
+        "genes": [
+            [
+                "ATC",
+                "CGT",
+                "GCT"
+            ],
+            [
+                "GAG",
+                "CAA",
+                "ACA"
+            ],
+            [
+                "CTT",
+                "CGG",
+                "GAG"
+            ],
+            [
+                "CGT",
+                "GC"
+            ]
+        ],
+        "texto": "Familia o haters?",
+        "curado": true
+    },
+    "meme_112.jpg": {
+        "archivo": "meme_112.jpg",
+        "adn": "a0348eaf33b4e6ffd4666b0406ccde1b",
+        "codons": [
+            "TTT",
+            "TCA",
+            "AAA",
+            "GTG",
+            "GAA",
+            "TCG",
+            "AAG",
+            "GCC",
+            "GGT",
+            "TGC"
+        ],
+        "residual": "TG",
+        "sequence": "TTTTCAAAAGTGGAATCGAAGGCCGGTTGCTG",
+        "genes": [
+            [
+                "TTT",
+                "TCA",
+                "AAA"
+            ],
+            [
+                "GTG",
+                "GAA",
+                "TCG"
+            ],
+            [
+                "AAG",
+                "GCC",
+                "GGT"
+            ],
+            [
+                "TGC",
+                "TG"
+            ]
+        ],
+        "texto": "Lol osea o my god en plan Holy shit",
+        "curado": true
+    },
+    "meme_113.jpg": {
+        "archivo": "meme_113.jpg",
+        "adn": "7d026c97b332e40f58a2f251be86d4eb",
+        "codons": [
+            "TTG",
+            "AAC",
+            "CCT",
+            "TCT",
+            "TCG",
+            "CGT",
+            "CCA",
+            "TCA",
+            "AGA",
+            "CGC"
+        ],
+        "residual": "TG",
+        "sequence": "TTGAACCCTTCTTCGCGTCCATCAAGACGCTG",
+        "genes": [
+            [
+                "TTG",
+                "AAC",
+                "CCT"
+            ],
+            [
+                "TCT",
+                "TCG",
+                "CGT"
+            ],
+            [
+                "CCA",
+                "TCA",
+                "AGA"
+            ],
+            [
+                "CGC",
+                "TG"
+            ]
+        ],
+        "texto": "Con muchos me rio pero  en pocos confío",
+        "curado": true
+    },
+    "meme_114.jpg": {
+        "archivo": "meme_114.jpg",
+        "adn": "d7b07e86e259ff6e4c72760da07c530a",
+        "codons": [
+            "ACA",
+            "TGA",
+            "GAG",
+            "TAG",
+            "GCC",
+            "GCT",
+            "CTG",
+            "TGC",
+            "CTT",
+            "TCT"
+        ],
+        "residual": "TT",
+        "sequence": "ACATGAGAGTAGGCCGCTCTGTGCCTTTCTTT",
+        "genes": [
+            [
+                "ACA",
+                "TGA",
+                "GAG"
+            ],
+            [
+                "TAG",
+                "GCC",
+                "GCT"
+            ],
+            [
+                "CTG",
+                "TGC",
+                "CTT"
+            ],
+            [
+                "TCT",
+                "TT"
+            ]
+        ],
+        "texto": "Ni femenino, ni masculino, solo emo . ¿Mi género? Oscuridad. ¿Qué tengo entre mis piernas? Oscuridad. ¿Pronombres? ro/ck ¿Es usted un niño o una niña? soy una amenza",
+        "curado": true
+    },
+    "meme_115.jpg": {
+        "archivo": "meme_115.jpg",
+        "adn": "6c578e204ec72d60a14c09f1d01c9100",
+        "codons": [
+            "TAC",
+            "TAA",
+            "CAC",
+            "AGC",
+            "GGT",
+            "AAT",
+            "CCA",
+            "TAA",
+            "AGA",
+            "CTC"
+        ],
+        "residual": "AT",
+        "sequence": "TACTAACACAGCGGTAATCCATAAAGACTCAT",
+        "genes": [
+            [
+                "TAC",
+                "TAA",
+                "CAC"
+            ],
+            [
+                "AGC",
+                "GGT",
+                "AAT"
+            ],
+            [
+                "CCA",
+                "TAA",
+                "AGA"
+            ],
+            [
+                "CTC",
+                "AT"
+            ]
+        ],
+        "texto": "Culiao asqueroso, que wea te pasa aweonao, a mi perro le doy de comer sopa de letras y cuando caga le salen frase mas coherentes que las weas que dices tu saco wea",
+        "curado": true
+    },
+    "meme_116.jpg": {
+        "archivo": "meme_116.jpg",
+        "adn": "0e6ff1c6e4c501e94c0a3ddf0819ef66",
+        "codons": [
+            "TCA",
+            "ATG",
+            "CCT",
+            "TAC",
+            "GCT",
+            "AAA",
+            "GCG",
+            "TCG",
+            "TCT",
+            "CTT"
+        ],
+        "residual": "TG",
+        "sequence": "TCAATGCCTTACGCTAAAGCGTCGTCTCTTTG",
+        "genes": [
+            [
+                "TCA",
+                "ATG",
+                "CCT"
+            ],
+            [
+                "TAC",
+                "GCT",
+                "AAA"
+            ],
+            [
+                "GCG",
+                "TCG",
+                "TCT"
+            ],
+            [
+                "CTT",
+                "TG"
+            ]
+        ],
+        "texto": "No me juzgues por se mandarilove nací por mi madre y morire por las mandarinas",
+        "curado": true
+    },
+    "meme_117.jpg": {
+        "archivo": "meme_117.jpg",
+        "adn": "0803bf15832cdb952d4fc84f3bd81182",
+        "codons": [
+            "AGC",
+            "TAT",
+            "TCA",
+            "CGC",
+            "TAG",
+            "GAT",
+            "GAT",
+            "TCC",
+            "GCG",
+            "CCC"
+        ],
+        "residual": "CC",
+        "sequence": "AGCTATTCACGCTAGGATGATTCCGCGCCCCC",
+        "genes": [
+            [
+                "AGC",
+                "TAT",
+                "TCA"
+            ],
+            [
+                "CGC",
+                "TAG",
+                "GAT"
+            ],
+            [
+                "GAT",
+                "TCC",
+                "GCG"
+            ],
+            [
+                "CCC",
+                "CC"
+            ]
+        ],
+        "texto": "Soy Bi por que me gustan los billetes",
+        "curado": true
+    },
+    "meme_118.jpg": {
+        "archivo": "meme_118.jpg",
+        "adn": "361b1823d2f27e46226e854b44606933",
+        "codons": [
+            "AGT",
+            "GCC",
+            "CCC",
+            "ACC",
+            "CTT",
+            "GGG",
+            "AAA",
+            "CTA",
+            "CAT",
+            "TTA"
+        ],
+        "residual": "AC",
+        "sequence": "AGTGCCCCCACCCTTGGGAAACTACATTTAAC",
+        "genes": [
+            [
+                "AGT",
+                "GCC",
+                "CCC"
+            ],
+            [
+                "ACC",
+                "CTT",
+                "GGG"
+            ],
+            [
+                "AAA",
+                "CTA",
+                "CAT"
+            ],
+            [
+                "TTA",
+                "AC"
+            ]
+        ],
+        "texto": "Soy trans porque me encantan las transferencias bancarias",
+        "curado": true
+    },
+    "meme_119.jpg": {
+        "archivo": "meme_119.jpg",
+        "adn": "5fd7a51c5057fef617af2475c5ee458e",
+        "codons": [
+            "GAG",
+            "GTA",
+            "CCA",
+            "TAG",
+            "CGC",
+            "GTC",
+            "AGG",
+            "TAT",
+            "GCC",
+            "TAC"
+        ],
+        "residual": "AG",
+        "sequence": "GAGGTACCATAGCGCGTCAGGTATGCCTACAG",
+        "genes": [
+            [
+                "GAG",
+                "GTA",
+                "CCA"
+            ],
+            [
+                "TAG",
+                "CGC",
+                "GTC"
+            ],
+            [
+                "AGG",
+                "TAT",
+                "GCC"
+            ],
+            [
+                "TAC",
+                "AG"
+            ]
+        ],
+        "texto": "Abusaste de la libertad de expresión bro",
+        "curado": true
+    },
+    "meme_120.jpg": {
+        "archivo": "meme_120.jpg",
+        "adn": "9cde218c70bfda5908acdb8ebcb79c4e",
+        "codons": [
+            "GCT",
+            "ACA",
+            "GGA",
+            "GAA",
+            "GCA",
+            "TGC",
+            "AGC",
+            "GAT",
+            "GTA",
+            "TCA"
+        ],
+        "residual": "GA",
+        "sequence": "GCTACAGGAGAAGCATGCAGCGATGTATCAGA",
+        "genes": [
+            [
+                "GCT",
+                "ACA",
+                "GGA"
+            ],
+            [
+                "GAA",
+                "GCA",
+                "TGC"
+            ],
+            [
+                "AGC",
+                "GAT",
+                "GTA"
+            ],
+            [
+                "TCA",
+                "GA"
+            ]
+        ],
+        "texto": "Cuando te pasa coso y quedas tipo ahre y flasheas un monton de wtf y corte no se pero bueno",
+        "curado": true
+    },
+    "meme_121.jpg": {
+        "archivo": "meme_121.jpg",
+        "adn": "6ef6c4bdeb162221ad09b79c2c0e5bbe",
+        "codons": [
+            "GCG",
+            "GCT",
+            "AAC",
+            "CCA",
+            "AGA",
+            "TAA",
+            "GTT",
+            "ACC",
+            "CAG",
+            "CAG"
+        ],
+        "residual": "TA",
+        "sequence": "GCGGCTAACCCAAGATAAGTTACCCAGCAGTA",
+        "genes": [
+            [
+                "GCG",
+                "GCT",
+                "AAC"
+            ],
+            [
+                "CCA",
+                "AGA",
+                "TAA"
+            ],
+            [
+                "GTT",
+                "ACC",
+                "CAG"
+            ],
+            [
+                "CAG",
+                "TA"
+            ]
+        ],
+        "texto": "Se vienen cositas (internación en un centro psiquiátrico)",
+        "curado": true
+    },
+    "meme_122.jpg": {
+        "archivo": "meme_122.jpg",
+        "adn": "d9ab82e74dd0ceb97cbc6da5ae7c701d",
+        "codons": [
+            "CAT",
+            "CGT",
+            "AAC",
+            "TGG",
+            "TTC",
+            "TCC",
+            "TAC",
+            "CGA",
+            "GTT",
+            "TAA"
+        ],
+        "residual": "TG",
+        "sequence": "CATCGTAACTGGTTCTCCTACCGAGTTTAATG",
+        "genes": [
+            [
+                "CAT",
+                "CGT",
+                "AAC"
+            ],
+            [
+                "TGG",
+                "TTC",
+                "TCC"
+            ],
+            [
+                "TAC",
+                "CGA",
+                "GTT"
+            ],
+            [
+                "TAA",
+                "TG"
+            ]
+        ],
+        "texto": "Esta no es la vida adolescente que me prometió disney channel",
+        "curado": true
+    },
+    "meme_123.jpg": {
+        "archivo": "meme_123.jpg",
+        "adn": "f882e919b096c02ed8a53b0e532f2d3d",
+        "codons": [
+            "CAC",
+            "CCC",
+            "CAG",
+            "GAG",
+            "CTG",
+            "CTG",
+            "GTC",
+            "GCG",
+            "TTC",
+            "TTA"
+        ],
+        "residual": "AA",
+        "sequence": "CACCCCCAGGAGCTGCTGGTCGCGTTCTTAAA",
+        "genes": [
+            [
+                "CAC",
+                "CCC",
+                "CAG"
+            ],
+            [
+                "GAG",
+                "CTG",
+                "CTG"
+            ],
+            [
+                "GTC",
+                "GCG",
+                "TTC"
+            ],
+            [
+                "TTA",
+                "AA"
+            ]
+        ],
+        "texto": "Yo a veces siento que el monte Everest si tiene algo en contra de mí",
+        "curado": true
+    },
+    "meme_124.jpg": {
+        "archivo": "meme_124.jpg",
+        "adn": "52bdee8634b89d3cfa802e1c4c77d555",
+        "codons": [
+            "CGT",
+            "GAA",
+            "TAC",
+            "TAC",
+            "ACA",
+            "CAG",
+            "CAG",
+            "AAA",
+            "TTT",
+            "GCA"
+        ],
+        "residual": "CG",
+        "sequence": "CGTGAATACTACACACAGCAGAAATTTGCACG",
+        "genes": [
+            [
+                "CGT",
+                "GAA",
+                "TAC"
+            ],
+            [
+                "TAC",
+                "ACA",
+                "CAG"
+            ],
+            [
+                "CAG",
+                "AAA",
+                "TTT"
+            ],
+            [
+                "GCA",
+                "CG"
+            ]
+        ],
+        "texto": "Por algo pasan las perras putas cosas",
+        "curado": true
+    },
+    "meme_125.jpg": {
+        "archivo": "meme_125.jpg",
+        "adn": "1add5428f5f2848e51473facaa0bbdb7",
+        "codons": [
+            "TTC",
+            "TTA",
+            "GCT",
+            "CCG",
+            "AAA",
+            "AGT",
+            "TAT",
+            "GAG",
+            "TAA",
+            "GCC"
+        ],
+        "residual": "CG",
+        "sequence": "TTCTTAGCTCCGAAAAGTTATGAGTAAGCCCG",
+        "genes": [
+            [
+                "TTC",
+                "TTA",
+                "GCT"
+            ],
+            [
+                "CCG",
+                "AAA",
+                "AGT"
+            ],
+            [
+                "TAT",
+                "GAG",
+                "TAA"
+            ],
+            [
+                "GCC",
+                "CG"
+            ]
+        ],
+        "texto": "a veces toca decir JUPUTA y acostarse a dormir",
+        "curado": true
+    },
+    "meme_126.jpg": {
+        "archivo": "meme_126.jpg",
+        "adn": "36f4472ee9fb0d9db25f8db615e83e3a",
+        "codons": [
+            "CCG",
+            "AAC",
+            "AAT",
+            "TGC",
+            "GGG",
+            "GGA",
+            "TAG",
+            "GGG",
+            "CTA",
+            "CGT"
+        ],
+        "residual": "GT",
+        "sequence": "CCGAACAATTGCGGGGGATAGGGGCTACGTGT",
+        "genes": [
+            [
+                "CCG",
+                "AAC",
+                "AAT"
+            ],
+            [
+                "TGC",
+                "GGG",
+                "GGA"
+            ],
+            [
+                "TAG",
+                "GGG",
+                "CTA"
+            ],
+            [
+                "CGT",
+                "GT"
+            ]
+        ],
+        "texto": "asi es la vida.com",
+        "curado": true
+    },
+    "meme_127.jpg": {
+        "archivo": "meme_127.jpg",
+        "adn": "786961f4c89ca8ab2332ccd36fcc8f66",
+        "codons": [
+            "ACC",
+            "GCT",
+            "CAA",
+            "ATG",
+            "GTG",
+            "TAT",
+            "TCC",
+            "CTC",
+            "ATG",
+            "TTA"
+        ],
+        "residual": "AT",
+        "sequence": "ACCGCTCAAATGGTGTATTCCCTCATGTTAAT",
+        "genes": [
+            [
+                "ACC",
+                "GCT",
+                "CAA"
+            ],
+            [
+                "ATG",
+                "GTG",
+                "TAT"
+            ],
+            [
+                "TCC",
+                "CTC",
+                "ATG"
+            ],
+            [
+                "TTA",
+                "AT"
+            ]
+        ],
+        "texto": "Cuando ya no tienes dinero, pero sí mucha fe",
+        "curado": true
+    },
+    "meme_128.jpg": {
+        "archivo": "meme_128.jpg",
+        "adn": "0a39b74311b6a727e7c10feaeaa9675a",
+        "codons": [
+            "CTC",
+            "AAT",
+            "TGT",
+            "AAA",
+            "GCG",
+            "CTT",
+            "ACT",
+            "GAC",
+            "TTG",
+            "TGC"
+        ],
+        "residual": "AC",
+        "sequence": "CTCAATTGTAAAGCGCTTACTGACTTGTGCAC",
+        "genes": [
+            [
+                "CTC",
+                "AAT",
+                "TGT"
+            ],
+            [
+                "AAA",
+                "GCG",
+                "CTT"
+            ],
+            [
+                "ACT",
+                "GAC",
+                "TTG"
+            ],
+            [
+                "TGC",
+                "AC"
+            ]
+        ],
+        "texto": "Quedé modo avión",
+        "curado": true
+    },
+    "meme_129.jpg": {
+        "archivo": "meme_129.jpg",
+        "adn": "66a0e20a622cf7410f80de41798b3db5",
+        "codons": [
+            "TGT",
+            "TCC",
+            "CGG",
+            "GCT",
+            "CTG",
+            "CAC",
+            "GCA",
+            "GGC",
+            "TCG",
+            "CTG"
+        ],
+        "residual": "CA",
+        "sequence": "TGTTCCCGGGCTCTGCACGCAGGCTCGCTGCA",
+        "genes": [
+            [
+                "TGT",
+                "TCC",
+                "CGG"
+            ],
+            [
+                "GCT",
+                "CTG",
+                "CAC"
+            ],
+            [
+                "GCA",
+                "GGC",
+                "TCG"
+            ],
+            [
+                "CTG",
+                "CA"
+            ]
+        ],
+        "texto": "Es el te juro más tejureño de todos los tejuros de tejurolandia",
+        "curado": true
+    },
+    "meme_130.jpg": {
+        "archivo": "meme_130.jpg",
+        "adn": "c43dd0b77e94355c9ab8b9db3d845893",
+        "codons": [
+            "CAA",
+            "CTG",
+            "TTA",
+            "CCG",
+            "ACT",
+            "AGC",
+            "ACC",
+            "CCG",
+            "CGC",
+            "GTC"
+        ],
+        "residual": "AA",
+        "sequence": "CAACTGTTACCGACTAGCACCCCGCGCGTCAA",
+        "genes": [
+            [
+                "CAA",
+                "CTG",
+                "TTA"
+            ],
+            [
+                "CCG",
+                "ACT",
+                "AGC"
+            ],
+            [
+                "ACC",
+                "CCG",
+                "CGC"
+            ],
+            [
+                "GTC",
+                "AA"
+            ]
+        ],
+        "texto": "ni que fuera cloro pa estar aclarando cosas, por mi piensen lo que quieran sapos hptas",
+        "curado": true
+    },
+    "meme_131.jpg": {
+        "archivo": "meme_131.jpg",
+        "adn": "a749f464097de63819a7085c297a609a",
+        "codons": [
+            "AAT",
+            "AAC",
+            "AGG",
+            "GCC",
+            "CGG",
+            "CGA",
+            "TAT",
+            "GGT",
+            "TAT",
+            "AGT"
+        ],
+        "residual": "TC",
+        "sequence": "AATAACAGGGCCCGGCGATATGGTTATAGTTC",
+        "genes": [
+            [
+                "AAT",
+                "AAC",
+                "AGG"
+            ],
+            [
+                "GCC",
+                "CGG",
+                "CGA"
+            ],
+            [
+                "TAT",
+                "GGT",
+                "TAT"
+            ],
+            [
+                "AGT",
+                "TC"
+            ]
+        ],
+        "texto": "No se llaman errores se Ilaman storytimes",
+        "curado": true
+    },
+    "meme_132.jpg": {
+        "archivo": "meme_132.jpg",
+        "adn": "6b51ec1fb455e06615edda4c936b85e2",
+        "codons": [
+            "CAG",
+            "CGT",
+            "ACG",
+            "GAA",
+            "TAC",
+            "TGG",
+            "TTG",
+            "GTT",
+            "CCG",
+            "GTG"
+        ],
+        "residual": "TC",
+        "sequence": "CAGCGTACGGAATACTGGTTGGTTCCGGTGTC",
+        "genes": [
+            [
+                "CAG",
+                "CGT",
+                "ACG"
+            ],
+            [
+                "GAA",
+                "TAC",
+                "TGG"
+            ],
+            [
+                "TTG",
+                "GTT",
+                "CCG"
+            ],
+            [
+                "GTG",
+                "TC"
+            ]
+        ],
+        "texto": "sí lo sabía pero fingí demencia",
+        "curado": true
+    },
+    "meme_133.jpg": {
+        "archivo": "meme_133.jpg",
+        "adn": "12cb16f68a4d3ae7d867279a7a0bacca",
+        "codons": [
+            "ATG",
+            "CTC",
+            "GAC",
+            "GTC",
+            "TGC",
+            "GGC",
+            "ACA",
+            "CTC",
+            "GGG",
+            "CGC"
+        ],
+        "residual": "AT",
+        "sequence": "ATGCTCGACGTCTGCGGCACACTCGGGCGCAT",
+        "genes": [
+            [
+                "ATG",
+                "CTC",
+                "GAC"
+            ],
+            [
+                "GTC",
+                "TGC",
+                "GGC"
+            ],
+            [
+                "ACA",
+                "CTC",
+                "GGG"
+            ],
+            [
+                "CGC",
+                "AT"
+            ]
+        ],
+        "texto": "Ayer fueron traumas, hoy son storytimes",
+        "curado": true
+    },
+    "meme_134.jpg": {
+        "archivo": "meme_134.jpg",
+        "adn": "f26b6b39c912ef96d7c313ad860473ee",
+        "codons": [
+            "GTA",
+            "AAT",
+            "AGG",
+            "GAG",
+            "AGA",
+            "TGT",
+            "ATT",
+            "CTG",
+            "GCT",
+            "GGC"
+        ],
+        "residual": "AA",
+        "sequence": "GTAAATAGGGAGAGATGTATTCTGGCTGGCAA",
+        "genes": [
+            [
+                "GTA",
+                "AAT",
+                "AGG"
+            ],
+            [
+                "GAG",
+                "AGA",
+                "TGT"
+            ],
+            [
+                "ATT",
+                "CTG",
+                "GCT"
+            ],
+            [
+                "GGC",
+                "AA"
+            ]
+        ],
+        "texto": "Ta potente la realidad",
+        "curado": true
+    },
+    "meme_135.jpg": {
+        "archivo": "meme_135.jpg",
+        "adn": "4c759f963655a1f5cfc18ed21bcd0c28",
+        "codons": [
+            "AAT",
+            "ATC",
+            "CGT",
+            "GTG",
+            "TCA",
+            "TTC",
+            "ATG",
+            "TAA",
+            "AGG",
+            "GAC"
+        ],
+        "residual": "GT",
+        "sequence": "AATATCCGTGTGTCATTCATGTAAAGGGACGT",
+        "genes": [
+            [
+                "AAT",
+                "ATC",
+                "CGT"
+            ],
+            [
+                "GTG",
+                "TCA",
+                "TTC"
+            ],
+            [
+                "ATG",
+                "TAA",
+                "AGG"
+            ],
+            [
+                "GAC",
+                "GT"
+            ]
+        ],
+        "texto": "Ni modo, una lloradita y p'a delante",
+        "curado": true
+    },
+    "meme_136.jpg": {
+        "archivo": "meme_136.jpg",
+        "adn": "06e27b9958077c619c2b61c84a1ed700",
+        "codons": [
+            "GTT",
+            "GAA",
+            "AAA",
+            "AGT",
+            "TTA",
+            "TCT",
+            "CCT",
+            "ACA",
+            "ACT",
+            "AAC"
+        ],
+        "residual": "AG",
+        "sequence": "GTTGAAAAAAGTTTATCTCCTACAACTAACAG",
+        "genes": [
+            [
+                "GTT",
+                "GAA",
+                "AAA"
+            ],
+            [
+                "AGT",
+                "TTA",
+                "TCT"
+            ],
+            [
+                "CCT",
+                "ACA",
+                "ACT"
+            ],
+            [
+                "AAC",
+                "AG"
+            ]
+        ],
+        "texto": "LLUVIA DE Factos",
+        "curado": true
+    },
+    "meme_137.jpg": {
+        "archivo": "meme_137.jpg",
+        "adn": "7b5518f34df19b565ed7537c21067676",
+        "codons": [
+            "GAC",
+            "ATA",
+            "TTG",
+            "CGC",
+            "CTC",
+            "CGA",
+            "GTG",
+            "ACT",
+            "TAA",
+            "ATC"
+        ],
+        "residual": "CA",
+        "sequence": "GACATATTGCGCCTCCGAGTGACTTAAATCCA",
+        "genes": [
+            [
+                "GAC",
+                "ATA",
+                "TTG"
+            ],
+            [
+                "CGC",
+                "CTC",
+                "CGA"
+            ],
+            [
+                "GTG",
+                "ACT",
+                "TAA"
+            ],
+            [
+                "ATC",
+                "CA"
+            ]
+        ],
+        "texto": "Tendré Alzheimer? porque no recuerdo haberte pedido un facto",
+        "curado": true
+    },
+    "meme_138.jpg": {
+        "archivo": "meme_138.jpg",
+        "adn": "0c43aa777bfc780ce9a96fc2482106b9",
+        "codons": [
+            "ACC",
+            "GTC",
+            "TCG",
+            "TTA",
+            "AAG",
+            "TGA",
+            "CTT",
+            "TGT",
+            "GCT",
+            "GAT"
+        ],
+        "residual": "AC",
+        "sequence": "ACCGTCTCGTTAAAGTGACTTTGTGCTGATAC",
+        "genes": [
+            [
+                "ACC",
+                "GTC",
+                "TCG"
+            ],
+            [
+                "TTA",
+                "AAG",
+                "TGA"
+            ],
+            [
+                "CTT",
+                "TGT",
+                "GCT"
+            ],
+            [
+                "GAT",
+                "AC"
+            ]
+        ],
+        "texto": "Llegando al trabajo con ganas, pero de dormir",
+        "curado": true
+    },
+    "meme_139.jpg": {
+        "archivo": "meme_139.jpg",
+        "adn": "8e6a79757fc5260afcbdb5a78a5c9dc6",
+        "codons": [
+            "TTC",
+            "CTA",
+            "CCG",
+            "ATA",
+            "GCG",
+            "ACA",
+            "TCT",
+            "CGG",
+            "GGC",
+            "TCT"
+        ],
+        "residual": "AC",
+        "sequence": "TTCCTACCGATAGCGACATCTCGGGGCTCTAC",
+        "genes": [
+            [
+                "TTC",
+                "CTA",
+                "CCG"
+            ],
+            [
+                "ATA",
+                "GCG",
+                "ACA"
+            ],
+            [
+                "TCT",
+                "CGG",
+                "GGC"
+            ],
+            [
+                "TCT",
+                "AC"
+            ]
+        ],
+        "texto": "Señora su hijo está publicando Factos",
+        "curado": true
+    },
+    "meme_140.jpg": {
+        "archivo": "meme_140.jpg",
+        "adn": "b1bb11f28b93722d8d79f80cf9a8ba79",
+        "codons": [
+            "TGG",
+            "GTA",
+            "TAC",
+            "TCT",
+            "ACA",
+            "CTT",
+            "AAT",
+            "CTT",
+            "CCG",
+            "TAG"
+        ],
+        "residual": "GC",
+        "sequence": "TGGGTATACTCTACACTTAATCTTCCGTAGGC",
+        "genes": [
+            [
+                "TGG",
+                "GTA",
+                "TAC"
+            ],
+            [
+                "TCT",
+                "ACA",
+                "CTT"
+            ],
+            [
+                "AAT",
+                "CTT",
+                "CCG"
+            ],
+            [
+                "TAG",
+                "GC"
+            ]
+        ],
+        "texto": "¡No te puedo oir! necesito que dejes de tirar factos",
+        "curado": true
+    },
+    "meme_141.jpg": {
+        "archivo": "meme_141.jpg",
+        "adn": "7a82ce6aca02854c7e61cdfd1041fd2a",
+        "codons": [
+            "GCT",
+            "GCC",
+            "GGA",
+            "CAG",
+            "CGC",
+            "CCG",
+            "GGA",
+            "AGT",
+            "GAC",
+            "GCA"
+        ],
+        "residual": "GC",
+        "sequence": "GCTGCCGGACAGCGCCCGGGAAGTGACGCAGC",
+        "genes": [
+            [
+                "GCT",
+                "GCC",
+                "GGA"
+            ],
+            [
+                "CAG",
+                "CGC",
+                "CCG"
+            ],
+            [
+                "GGA",
+                "AGT",
+                "GAC"
+            ],
+            [
+                "GCA",
+                "GC"
+            ]
+        ],
+        "texto": "A tirar factos a otro lado bro",
+        "curado": true
+    },
+    "meme_142.jpg": {
+        "archivo": "meme_142.jpg",
+        "adn": "595ad45f6deba8567fc0eb661ce8d434",
+        "codons": [
+            "GCA",
+            "GTC",
+            "ACC",
+            "ACG",
+            "AAT",
+            "AGC",
+            "ACG",
+            "GTC",
+            "GTC",
+            "CGT"
+        ],
+        "residual": "TC",
+        "sequence": "GCAGTCACCACGAATAGCACGGTCGTCCGTTC",
+        "genes": [
+            [
+                "GCA",
+                "GTC",
+                "ACC"
+            ],
+            [
+                "ACG",
+                "AAT",
+                "AGC"
+            ],
+            [
+                "ACG",
+                "GTC",
+                "GTC"
+            ],
+            [
+                "CGT",
+                "TC"
+            ]
+        ],
+        "texto": "EXCESO DE FLOW",
+        "curado": true
+    },
+    "meme_143.jpg": {
+        "archivo": "meme_143.jpg",
+        "adn": "18ed60896487386c7e821c4039f4275d",
+        "codons": [
+            "GTC",
+            "CTC",
+            "CCT",
+            "AAA",
+            "TCG",
+            "ATT",
+            "TTA",
+            "TGG",
+            "CTG",
+            "AAA"
+        ],
+        "residual": "CA",
+        "sequence": "GTCCTCCCTAAATCGATTTTATGGCTGAAACA",
+        "genes": [
+            [
+                "GTC",
+                "CTC",
+                "CCT"
+            ],
+            [
+                "AAA",
+                "TCG",
+                "ATT"
+            ],
+            [
+                "TTA",
+                "TGG",
+                "CTG"
+            ],
+            [
+                "AAA",
+                "CA"
+            ]
+        ],
+        "texto": "NOoOoOoOo LA POLITZIAAA NOOOOO",
+        "curado": true
+    },
+    "meme_144.jpg": {
+        "archivo": "meme_144.jpg",
+        "adn": "88d7b2b52679a69bedb02c9c2a84e28b",
+        "codons": [
+            "AGT",
+            "GCT",
+            "GAC",
+            "AGC",
+            "CGG",
+            "ATC",
+            "GTC",
+            "AAG",
+            "TTG",
+            "CAG"
+        ],
+        "residual": "CT",
+        "sequence": "AGTGCTGACAGCCGGATCGTCAAGTTGCAGCT",
+        "genes": [
+            [
+                "AGT",
+                "GCT",
+                "GAC"
+            ],
+            [
+                "AGC",
+                "CGG",
+                "ATC"
+            ],
+            [
+                "GTC",
+                "AAG",
+                "TTG"
+            ],
+            [
+                "CAG",
+                "CT"
+            ]
+        ],
+        "texto": "Oztias",
+        "curado": true
+    },
+    "meme_145.jpg": {
+        "archivo": "meme_145.jpg",
+        "adn": "14c05759031c6447eb180edb6ac48c62",
+        "codons": [
+            "CGT",
+            "ACC",
+            "GTG",
+            "CCG",
+            "ACG",
+            "TTG",
+            "ACT",
+            "GCT",
+            "CTG",
+            "TAC"
+        ],
+        "residual": "GT",
+        "sequence": "CGTACCGTGCCGACGTTGACTGCTCTGTACGT",
+        "genes": [
+            [
+                "CGT",
+                "ACC",
+                "GTG"
+            ],
+            [
+                "CCG",
+                "ACG",
+                "TTG"
+            ],
+            [
+                "ACT",
+                "GCT",
+                "CTG"
+            ],
+            [
+                "TAC",
+                "GT"
+            ]
+        ],
+        "texto": "El volumen  nunca es suficiente cuando ponen",
+        "curado": true
+    },
+    "meme_146.jpg": {
+        "archivo": "meme_146.jpg",
+        "adn": "6c2c54bc62d5013532a81ee9823b79ee",
+        "codons": [
+            "ACA",
+            "CCT",
+            "TAT",
+            "TTA",
+            "CAC",
+            "CGT",
+            "GTT",
+            "ACA",
+            "GGA",
+            "CCT"
+        ],
+        "residual": "TA",
+        "sequence": "ACACCTTATTTACACCGTGTTACAGGACCTTA",
+        "genes": [
+            [
+                "ACA",
+                "CCT",
+                "TAT"
+            ],
+            [
+                "TTA",
+                "CAC",
+                "CGT"
+            ],
+            [
+                "GTT",
+                "ACA",
+                "GGA"
+            ],
+            [
+                "CCT",
+                "TA"
+            ]
+        ],
+        "texto": "MI LOCO DELE PA FUERA",
+        "curado": true
+    },
+    "meme_147.jpg": {
+        "archivo": "meme_147.jpg",
+        "adn": "2420d45aabf977bcfffebd4f7104b129",
+        "codons": [
+            "ATT",
+            "TTA",
+            "TGT",
+            "CGT",
+            "CAC",
+            "AAC",
+            "ACA",
+            "AGA",
+            "CTG",
+            "CAG"
+        ],
+        "residual": "AG",
+        "sequence": "ATTTTATGTCGTCACAACACAAGACTGCAGAG",
+        "genes": [
+            [
+                "ATT",
+                "TTA",
+                "TGT"
+            ],
+            [
+                "CGT",
+                "CAC",
+                "AAC"
+            ],
+            [
+                "ACA",
+                "AGA",
+                "CTG"
+            ],
+            [
+                "CAG",
+                "AG"
+            ]
+        ],
+        "texto": "Ahí vienes a mamar",
+        "curado": true
+    },
+    "meme_148.jpg": {
+        "archivo": "meme_148.jpg",
+        "adn": "4786fd3ca4ac71689d1a70c2493c333e",
+        "codons": [
+            "ACG",
+            "CTG",
+            "CAC",
+            "ACA",
+            "GTA",
+            "AAG",
+            "AGC",
+            "CTT",
+            "ATC",
+            "ACG"
+        ],
+        "residual": "TA",
+        "sequence": "ACGCTGCACACAGTAAAGAGCCTTATCACGTA",
+        "genes": [
+            [
+                "ACG",
+                "CTG",
+                "CAC"
+            ],
+            [
+                "ACA",
+                "GTA",
+                "AAG"
+            ],
+            [
+                "AGC",
+                "CTT",
+                "ATC"
+            ],
+            [
+                "ACG",
+                "TA"
+            ]
+        ],
+        "texto": "vencí el verbo to be",
+        "curado": true
+    },
+    "meme_149.jpg": {
+        "archivo": "meme_149.jpg",
+        "adn": "3cd4ab7a5d43726f767bbea2919578db",
+        "codons": [
+            "TAG",
+            "ATT",
+            "AGA",
+            "CGC",
+            "AAG",
+            "CCA",
+            "TTA",
+            "GTT",
+            "TTA",
+            "CAT"
+        ],
+        "residual": "GA",
+        "sequence": "TAGATTAGACGCAAGCCATTAGTTTTACATGA",
+        "genes": [
+            [
+                "TAG",
+                "ATT",
+                "AGA"
+            ],
+            [
+                "CGC",
+                "AAG",
+                "CCA"
+            ],
+            [
+                "TTA",
+                "GTT",
+                "TTA"
+            ],
+            [
+                "CAT",
+                "GA"
+            ]
+        ],
+        "texto": "i'm tired (estoy tirado)",
+        "curado": true
+    },
+    "meme_150.jpg": {
+        "archivo": "meme_150.jpg",
+        "adn": "e500f916f9959b3363bb303f120bd097",
+        "codons": [
+            "GCA",
+            "TCC",
+            "GGA",
+            "GTC",
+            "CTA",
+            "GTT",
+            "GAT",
+            "CGC",
+            "GTT",
+            "GTA"
+        ],
+        "residual": "GT",
+        "sequence": "GCATCCGGAGTCCTAGTTGATCGCGTTGTAGT",
+        "genes": [
+            [
+                "GCA",
+                "TCC",
+                "GGA"
+            ],
+            [
+                "GTC",
+                "CTA",
+                "GTT"
+            ],
+            [
+                "GAT",
+                "CGC",
+                "GTT"
+            ],
+            [
+                "GTA",
+                "GT"
+            ]
+        ],
+        "texto": "so easy (soy ese)",
+        "curado": true
+    },
+    "meme_151.jpg": {
+        "archivo": "meme_151.jpg",
+        "adn": "b857bf754818f3626c80a08abfeda9cb",
+        "codons": [
+            "TTA",
+            "AAA",
+            "ACC",
+            "AGT",
+            "TGA",
+            "GCT",
+            "CAA",
+            "AAT",
+            "CCT",
+            "TAG"
+        ],
+        "residual": "CT",
+        "sequence": "TTAAAAACCAGTTGAGCTCAAAATCCTTAGCT",
+        "genes": [
+            [
+                "TTA",
+                "AAA",
+                "ACC"
+            ],
+            [
+                "AGT",
+                "TGA",
+                "GCT"
+            ],
+            [
+                "CAA",
+                "AAT",
+                "CCT"
+            ],
+            [
+                "TAG",
+                "CT"
+            ]
+        ],
+        "texto": "I m horny (Estoy horneando)",
+        "curado": true
+    },
+    "meme_152.jpg": {
+        "archivo": "meme_152.jpg",
+        "adn": "30dc3e6d2fb9983fbe9e0e0270abde3e",
+        "codons": [
+            "TGG",
+            "GGC",
+            "CAG",
+            "AGC",
+            "CAT",
+            "CAG",
+            "ACC",
+            "CCG",
+            "AAC",
+            "ATT"
+        ],
+        "residual": "TC",
+        "sequence": "TGGGGCCAGAGCCATCAGACCCCGAACATTTC",
+        "genes": [
+            [
+                "TGG",
+                "GGC",
+                "CAG"
+            ],
+            [
+                "AGC",
+                "CAT",
+                "CAG"
+            ],
+            [
+                "ACC",
+                "CCG",
+                "AAC"
+            ],
+            [
+                "ATT",
+                "TC"
+            ]
+        ],
+        "texto": "Estreñimiento miedo a perder una persona",
+        "curado": true
+    },
+    "meme_153.jpg": {
+        "archivo": "meme_153.jpg",
+        "adn": "1e162daeb4077232a27d32556e5e2f67",
+        "codons": [
+            "CTA",
+            "TTA",
+            "GGA",
+            "AAT",
+            "TTC",
+            "CGT",
+            "CGC",
+            "GGC",
+            "AAT",
+            "ACA"
+        ],
+        "residual": "GA",
+        "sequence": "CTATTAGGAAATTTCCGTCGCGGCAATACAGA",
+        "genes": [
+            [
+                "CTA",
+                "TTA",
+                "GGA"
+            ],
+            [
+                "AAT",
+                "TTC",
+                "CGT"
+            ],
+            [
+                "CGC",
+                "GGC",
+                "AAT"
+            ],
+            [
+                "ACA",
+                "GA"
+            ]
+        ],
+        "texto": "calenta mas agua",
+        "curado": true
+    },
+    "meme_154.jpg": {
+        "archivo": "meme_154.jpg",
+        "adn": "f316e35bddd98cd71f923193f7fa5176",
+        "codons": [
+            "CTT",
+            "AAC",
+            "CTA",
+            "TCC",
+            "CAA",
+            "AGG",
+            "AAT",
+            "TAC",
+            "GAT",
+            "GCG"
+        ],
+        "residual": "CC",
+        "sequence": "CTTAACCTATCCCAAAGGAATTACGATGCGCC",
+        "genes": [
+            [
+                "CTT",
+                "AAC",
+                "CTA"
+            ],
+            [
+                "TCC",
+                "CAA",
+                "AGG"
+            ],
+            [
+                "AAT",
+                "TAC",
+                "GAT"
+            ],
+            [
+                "GCG",
+                "CC"
+            ]
+        ],
+        "texto": "a ver cuanta gente linda  y educada me deposita 38,000  pesos ajajajaj buenos días",
+        "curado": true
+    },
+    "meme_155.jpg": {
+        "archivo": "meme_155.jpg",
+        "adn": "8b9a4aca29c7338a93af91c594a0b1c9",
+        "codons": [
+            "GTA",
+            "ACC",
+            "TTT",
+            "ATG",
+            "ATA",
+            "CAA",
+            "TCG",
+            "TTT",
+            "ATT",
+            "TGG"
+        ],
+        "residual": "TC",
+        "sequence": "GTAACCTTTATGATACAATCGTTTATTTGGTC",
+        "genes": [
+            [
+                "GTA",
+                "ACC",
+                "TTT"
+            ],
+            [
+                "ATG",
+                "ATA",
+                "CAA"
+            ],
+            [
+                "TCG",
+                "TTT",
+                "ATT"
+            ],
+            [
+                "TGG",
+                "TC"
+            ]
+        ],
+        "texto": "si bro yo hacia bases secretas en mi mundo solitario de: minecraft",
+        "curado": true
+    },
+    "meme_156.jpg": {
+        "archivo": "meme_156.jpg",
+        "adn": "615943ad3e42e51b14c134e34a404694",
+        "codons": [
+            "GTA",
+            "AAG",
+            "ATA",
+            "CTG",
+            "TGG",
+            "TTT",
+            "TGG",
+            "CAG",
+            "CGC",
+            "GAA"
+        ],
+        "residual": "TT",
+        "sequence": "GTAAAGATACTGTGGTTTTGGCAGCGCGAATT",
+        "genes": [
+            [
+                "GTA",
+                "AAG",
+                "ATA"
+            ],
+            [
+                "CTG",
+                "TGG",
+                "TTT"
+            ],
+            [
+                "TGG",
+                "CAG",
+                "CGC"
+            ],
+            [
+                "GAA",
+                "TT"
+            ]
+        ],
+        "texto": "Yo haciendo una hora de autocuidado, después de pasar 23 horas de autodestrucción",
+        "curado": true
+    },
+    "meme_157.jpg": {
+        "archivo": "meme_157.jpg",
+        "adn": "44e203cab7c90dd281f7242cd04d1307",
+        "codons": [
+            "TAT",
+            "GCT",
+            "GCG",
+            "TAC",
+            "AAT",
+            "GCA",
+            "TCA",
+            "CTT",
+            "GAT",
+            "ATA"
+        ],
+        "residual": "AC",
+        "sequence": "TATGCTGCGTACAATGCATCACTTGATATAAC",
+        "genes": [
+            [
+                "TAT",
+                "GCT",
+                "GCG"
+            ],
+            [
+                "TAC",
+                "AAT",
+                "GCA"
+            ],
+            [
+                "TCA",
+                "CTT",
+                "GAT"
+            ],
+            [
+                "ATA",
+                "AC"
+            ]
+        ],
+        "texto": "yo explicando todo lo q hago a mi canal de yt imaginario",
+        "curado": true
+    },
+    "meme_158.jpg": {
+        "archivo": "meme_158.jpg",
+        "adn": "0652834f6e802a761e12f192a88f8e54",
+        "codons": [
+            "GTT",
+            "AGT",
+            "GGT",
+            "TGC",
+            "GAT",
+            "CCC",
+            "AGC",
+            "TCG",
+            "GAT",
+            "TAA"
+        ],
+        "residual": "GA",
+        "sequence": "GTTAGTGGTTGCGATCCCAGCTCGGATTAAGA",
+        "genes": [
+            [
+                "GTT",
+                "AGT",
+                "GGT"
+            ],
+            [
+                "TGC",
+                "GAT",
+                "CCC"
+            ],
+            [
+                "AGC",
+                "TCG",
+                "GAT"
+            ],
+            [
+                "TAA",
+                "GA"
+            ]
+        ],
+        "texto": "Drogas? no gracias yo sólo consumo ships gays",
+        "curado": true
+    },
+    "meme_159.jpg": {
+        "archivo": "meme_159.jpg",
+        "adn": "0e3ac1bfb5c2b87d4ec64915e75abc16",
+        "codons": [
+            "AAG",
+            "AGT",
+            "ATT",
+            "CCA",
+            "GCT",
+            "AGG",
+            "GTA",
+            "CTC",
+            "TTC",
+            "TCC"
+        ],
+        "residual": "TA",
+        "sequence": "AAGAGTATTCCAGCTAGGGTACTCTTCTCCTA",
+        "genes": [
+            [
+                "AAG",
+                "AGT",
+                "ATT"
+            ],
+            [
+                "CCA",
+                "GCT",
+                "AGG"
+            ],
+            [
+                "GTA",
+                "CTC",
+                "TTC"
+            ],
+            [
+                "TCC",
+                "TA"
+            ]
+        ],
+        "texto": "Si, escribo BL Y Khe!?",
+        "curado": true
+    },
+    "meme_160.jpg": {
+        "archivo": "meme_160.jpg",
+        "adn": "af4f256a48ab489d06f8cd0bfb2d0185",
+        "codons": [
+            "TTG",
+            "TGT",
+            "AGG",
+            "CAT",
+            "CGG",
+            "ACG",
+            "ATG",
+            "ACC",
+            "CTG",
+            "GAG"
+        ],
+        "residual": "AT",
+        "sequence": "TTGTGTAGGCATCGGACGATGACCCTGGAGAT",
+        "genes": [
+            [
+                "TTG",
+                "TGT",
+                "AGG"
+            ],
+            [
+                "CAT",
+                "CGG",
+                "ACG"
+            ],
+            [
+                "ATG",
+                "ACC",
+                "CTG"
+            ],
+            [
+                "GAG",
+                "AT"
+            ]
+        ],
+        "texto": "un policia me detuvo en mi auto y me dijo \"papeles?\" y yo le dije \"tijeras, yo gano\" y me disparo 22 veces en los pulmones",
+        "curado": true
+    },
+    "meme_161.jpg": {
+        "archivo": "meme_161.jpg",
+        "adn": "8558a001f64b55155649417d8d4ad61c",
+        "codons": [
+            "AAA",
+            "TTT",
+            "CGT",
+            "TAG",
+            "AGG",
+            "ATG",
+            "GCG",
+            "CTC",
+            "CCT",
+            "ACG"
+        ],
+        "residual": "AG",
+        "sequence": "AAATTTCGTTAGAGGATGGCGCTCCCTACGAG",
+        "genes": [
+            [
+                "AAA",
+                "TTT",
+                "CGT"
+            ],
+            [
+                "TAG",
+                "AGG",
+                "ATG"
+            ],
+            [
+                "GCG",
+                "CTC",
+                "CCT"
+            ],
+            [
+                "ACG",
+                "AG"
+            ]
+        ],
+        "texto": "ya me voy nadie me quiere mandar fotos de su tarea",
+        "curado": true
+    },
+    "meme_162.jpg": {
+        "archivo": "meme_162.jpg",
+        "adn": "1aa5baf158b125653ff3a0d7789c7cab",
+        "codons": [
+            "CAC",
+            "AAG",
+            "GGG",
+            "AGC",
+            "GCA",
+            "CAC",
+            "TAA",
+            "CGA",
+            "AAT",
+            "AGT"
+        ],
+        "residual": "CA",
+        "sequence": "CACAAGGGGAGCGCACACTAACGAAATAGTCA",
+        "genes": [
+            [
+                "CAC",
+                "AAG",
+                "GGG"
+            ],
+            [
+                "AGC",
+                "GCA",
+                "CAC"
+            ],
+            [
+                "TAA",
+                "CGA",
+                "AAT"
+            ],
+            [
+                "AGT",
+                "CA"
+            ]
+        ],
+        "texto": "mira homofobico de mierda cuando eras espermatozoide vivias nadando en semen y eso es bastante gay",
+        "curado": true
+    },
+    "meme_163.jpg": {
+        "archivo": "meme_163.jpg",
+        "adn": "f6593d1ad3b2bde5dcf32ab3abbede72",
+        "codons": [
+            "CGC",
+            "CCG",
+            "TAT",
+            "TGT",
+            "AAG",
+            "ATT",
+            "GTG",
+            "CCT",
+            "TTG",
+            "TCG"
+        ],
+        "residual": "AT",
+        "sequence": "CGCCCGTATTGTAAGATTGTGCCTTTGTCGAT",
+        "genes": [
+            [
+                "CGC",
+                "CCG",
+                "TAT"
+            ],
+            [
+                "TGT",
+                "AAG",
+                "ATT"
+            ],
+            [
+                "GTG",
+                "CCT",
+                "TTG"
+            ],
+            [
+                "TCG",
+                "AT"
+            ]
+        ],
+        "texto": "¿SABÍAS QUE ? ACOMPAÑAR TUS COMIDAS CON UN VASO DE JUGO DE NARANJA AL MENOS UNA VEZ AL DÍA TE DA LA SUFICIENTE ENERGÍA PARA QUE TE VALLAS A LA PUTA QUE TE PARIO.",
+        "curado": true
+    },
+    "meme_164.jpg": {
+        "archivo": "meme_164.jpg",
+        "adn": "49f101efb08ab736162c3a42ac42d88f",
+        "codons": [
+            "GTG",
+            "TGC",
+            "AGG",
+            "ACT",
+            "AAT",
+            "CAC",
+            "ACG",
+            "AAT",
+            "GCT",
+            "GAA"
+        ],
+        "residual": "CG",
+        "sequence": "GTGTGCAGGACTAATCACACGAATGCTGAACG",
+        "genes": [
+            [
+                "GTG",
+                "TGC",
+                "AGG"
+            ],
+            [
+                "ACT",
+                "AAT",
+                "CAC"
+            ],
+            [
+                "ACG",
+                "AAT",
+                "GCT"
+            ],
+            [
+                "GAA",
+                "CG"
+            ]
+        ],
+        "texto": "ndea se re perdia",
+        "curado": true
+    },
+    "meme_165.jpg": {
+        "archivo": "meme_165.jpg",
+        "adn": "6546d4b907d186a99167aa02c5bf1658",
+        "codons": [
+            "TCC",
+            "GTT",
+            "TTA",
+            "GAC",
+            "GCA",
+            "CTA",
+            "TGA",
+            "ACG",
+            "CGA",
+            "ACC"
+        ],
+        "residual": "TT",
+        "sequence": "TCCGTTTTAGACGCACTATGAACGCGAACCTT",
+        "genes": [
+            [
+                "TCC",
+                "GTT",
+                "TTA"
+            ],
+            [
+                "GAC",
+                "GCA",
+                "CTA"
+            ],
+            [
+                "TGA",
+                "ACG",
+                "CGA"
+            ],
+            [
+                "ACC",
+                "TT"
+            ]
+        ],
+        "texto": "wtf princesa no flashees bardo boluda todo bien",
+        "curado": true
+    },
+    "meme_166.jpg": {
+        "archivo": "meme_166.jpg",
+        "adn": "bf4782c2f3e04721ec9d5e8b706edb41",
+        "codons": [
+            "TGT",
+            "ATG",
+            "CTC",
+            "GCG",
+            "CGT",
+            "ACC",
+            "TCA",
+            "TAG",
+            "AAC",
+            "GGA"
+        ],
+        "residual": "CG",
+        "sequence": "TGTATGCTCGCGCGTACCTCATAGAACGGACG",
+        "genes": [
+            [
+                "TGT",
+                "ATG",
+                "CTC"
+            ],
+            [
+                "GCG",
+                "CGT",
+                "ACC"
+            ],
+            [
+                "TCA",
+                "TAG",
+                "AAC"
+            ],
+            [
+                "GGA",
+                "CG"
+            ]
+        ],
+        "texto": "musarela wachin",
+        "curado": true
+    }
+}
